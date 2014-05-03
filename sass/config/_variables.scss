@@ -91,7 +91,7 @@ $grey: (
   highlight: lighten($main-grey, 30%)
 );
 
-
+$color-swatch: (orange $orange) (blue $blue) (green $green) ('grey' $grey);
 
 // Standard colors: for standard 4K and other brand colors.
 // Note: these are just for reference, and some brands have multiple colors.

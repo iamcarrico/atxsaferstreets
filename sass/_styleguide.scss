@@ -39,9 +39,8 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
 //////////////////////////////////////////////////////////////////
 
 .styleguide-swatches {
-
-  $swatches: (orange $orange) (blue $blue) (green $green) ('grey' $grey);
-  $swatch-count: length($swatches);
+  $swatches: $color-swatch;
+  $swatch-count: length($color-swatch);
 
   @extend %clearfix;
 
