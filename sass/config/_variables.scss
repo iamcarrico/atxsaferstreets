@@ -81,12 +81,14 @@ $green: (
   highlight: #63DC90
 );
 
+$main-grey: lighten(#2c2d32, 20%);
+
 $grey: (
-  dark:      darken(#2c2d32, 15%),
-  dull:      darken(#2c2d32, 10%),
-  main:      #2c2d32,
-  bright:    lighten(#2c2d32, 10%),
-  highlight: lighten(#2c2d32, 30%)
+  dark:      darken($main-grey, 15%),
+  dull:      darken($main-grey, 10%),
+  main:      $main-grey,
+  bright:    lighten($main-grey, 10%),
+  highlight: lighten($main-grey, 30%)
 );
 
 

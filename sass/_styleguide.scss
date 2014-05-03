@@ -40,6 +40,9 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
 
 .styleguide-swatches {
 
+  $swatches: (orange $orange) (blue $blue) (green $green) ('grey' $grey);
+  $swatch-count: length($swatches);
+
   @extend %clearfix;
 
   @include respond-to('sg swatches large') {
@@ -65,16 +68,16 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
     }
 
     @include respond-to('sg swatches large') {
-      @include grid-span(1,0,5, $gutter: 0, $output-style: 'float');
+      @include grid-span(1,0,$swatch-count, $gutter: 0, $output-style: 'float');
       &:last-child { margin-right: 0; }
     }
 
-  $swatches: (orange $orange) (blue $blue) (green $green) ('grey' $grey) ;
   @each $swatch in $swatches {
     $name: nth($swatch, 1); // The text label
     $color_map: nth($swatch, 2); // The color array
     &.#{$name} {
       .title {
+        //background-color: style-color($grey, highlight, 20%);
         background-color: $white;
         color: style-color($color_map);
       }
@@ -130,7 +133,7 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
     color: $white;
 
     @include respond-to('sg swatches small') {
-      &.dark, &.dull, &.main, &.light, &.highlight {
+      &.dark, &.dull,, &.light, &.highlight {
         @include grid-span(1,0,2, $gutter: 0, $output-style: 'float');
       }
 
@@ -139,23 +142,18 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
         padding: 1em;
       }
 
-      &.main &.highlight {
+      &.dark, &.highlight {
         margin-right: 0;
       }
 
-      &.dark, &.main {
-        .accent { top: 0; }
-        padding: 1.75em 0 1em 0; // to make room for the accents
-      }
-
-      &.light, &.highlight {
+      &.light, &.highlight, &.dull, &.dark {
         .accent { bottom: 0; }
         padding: 1em 0 1.75em 0; // to make room for the accents
       }
     }
 
     @include respond-to('sg swatches medium') {
-      &.dark, &.main, &.light, &.highlight {
+      &.dark, &.light, &.highlight, &.dull {
         padding: 1em 0 1.75em 0; // to make room for the accents
         @include grid-span(1,0,4, $gutter: 0, $output-style: 'float');
       }
