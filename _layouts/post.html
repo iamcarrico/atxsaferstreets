@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<article class="blog-post full">
+  <h1 class="title">{{ page.title }}</h1>
+  <div class="metadatas">
+    <span class="date">{{page.date | date: "%Y-%m-%d"}}</span>
+  </div>
+  <div class="content">
+    {{ content }}
+  </div>
+</article>

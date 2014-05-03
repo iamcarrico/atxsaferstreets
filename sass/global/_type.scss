@@ -1,0 +1,132 @@
+/**
+* Typography: Headings, body text, lists, code, and more for a versatile and durable typography system.
+*/
+
+body {
+  font-family: $droid;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  color: $black;
+}
+
+
+// Headings
+//
+// To achieve a pleasant vertical rhythm, we use Compass' Vertical Rhythm mixins
+// so that the line height of our base font becomes the basic unit of vertical
+// measurement. We use multiples of that unit to set the top and bottom margins
+// for our block level elements and to set the line heights of any fonts.
+// For more information, see http://24ways.org/2006/compose-to-a-vertical-rhythm
+
+#{headings()} {
+  font-family: $michroma;
+  font-weight: normal;
+  color: style-color($blue);
+}
+
+h1 {
+  color: style-color($orange);
+}
+
+h2 {
+  font-size: 1.75em;
+  color: style-color($orange);
+}
+
+h3 {
+  size: 1.5em;
+
+}
+
+h4 {
+  size: 1.33em;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+
+// Links
+//
+// The order of link states are based on Eric Meyer's article:
+// http://meyerweb.com/eric/thoughts/2007/06/11/who-ordered-the-link-states
+a {
+  @include single-transition(color, .3s);
+
+  &:link {
+    color: $link;
+  }
+
+  &:visited {
+    color: $visited;
+  }
+
+  &:hover, &:focus {
+    color: mix(#000, $link, 50%);
+  }
+
+  &:active, &.active {
+
+  }
+}
+
+
+// Lists
+
+ul, ol {
+
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+
+ul {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+ul.unstyled,
+ol.unstyled {
+
+}
+
+// Misc.
+
+hr {
+  height: 1px;
+  border: 1px solid #666;
+  padding-bottom: -1px;
+  margin: 1em 0;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+
+// Remove text-shadow in selection highlight: h5bp.com/i
+// These selection declarations have to be separate
+::-moz-selection { background: $selection-bg; color: $selection; text-shadow: none; }
+::selection { background: $selection-bg; color: $selection; text-shadow: none; }
+
+// Some icon font.

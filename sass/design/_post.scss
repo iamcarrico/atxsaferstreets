@@ -1,0 +1,31 @@
+/**
+ * The blog post partial.
+ */
+
+.blog-post {
+
+  .title {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+  }
+
+  .category {
+    font-style: italic;
+
+    &:after {
+      content: ', ';
+    }
+
+    &:last-child:after {
+      content: '';
+    }
+  }
+
+  &.teaser {
+    margin-bottom: 40px;
+  }
+
+
+
+}
+
