@@ -4,9 +4,12 @@
 
 main {
   @extend %clearfix;
-  @extend %max-width;
-
+  background-color: white;
   padding: .5em;
+
+  @include breakpoint(max-width $bp-two-columns) {
+    @include max-width;
+  }
 
 
 }

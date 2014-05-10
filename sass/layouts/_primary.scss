@@ -1,0 +1,26 @@
+/**
+ * Primary layout for the site.
+ */
+
+@include add-grid(1);
+@include add-gutter(1/2);
+@include add-grid(3 8 at $bp-two-columns);
+
+@include breakpoint($bp-two-columns) {
+  .main-container {
+    @include max-width;
+  }
+
+  #nav, #footer {
+    @include grid-span(1, 1);
+  }
+
+  #footer {
+    clear: left;
+  }
+
+  main {
+    @include grid-span(1, 2);
+  }
+
+}

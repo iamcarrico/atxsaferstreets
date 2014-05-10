@@ -21,7 +21,7 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
 @mixin sg-component-frame-mixin {
   // In a couple places, this can't be extended and has to be included (media queries)
   border: 1px solid grey;
-  @include border-radius(3px);
+  border-radius: 3px;
   margin: 1em auto;
 }
 
@@ -115,7 +115,7 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
 
     li.highlight span:after {
       color: style-color($grey, 'dark');
-      @include text-shadow(1px 1px 0 rgba(255,255,255,0.5));
+      text-shadow: 1px 1px 0 rgba(255,255,255,0.5);
     }
 
     &:last-child {
@@ -179,7 +179,7 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
 
     &.main {
       z-index: 25;
-      @include box-shadow(0px 0px 15px rgba(0,0,0,0.85));
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.85);
     }
 
     span {
@@ -187,7 +187,7 @@ $breakpoints: add-breakpoint('sg typeplate large', 580px);
       z-index: 50;
 
       &:after {
-        @include text-shadow(1px 1px 0 rgba(0,0,0,0.5));
+        text-shadow: 1px 1px 0 rgba(0,0,0,0.5);
       }
     }
   }

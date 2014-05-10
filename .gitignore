@@ -7,6 +7,9 @@ _site
 # Ignore Sass stuff
 .sass-cache
 
+# Ignore Bower
+bower_components
+
 # For Grunt npm modules
 node_modules
 _tmp

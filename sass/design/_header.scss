@@ -2,9 +2,11 @@
  * The header partial.
  */
 
-header {
+#header {
   @extend %clearfix;
   @extend %max-width;
 
-  
+  h1 {
+    margin: 0;
+  }
 }

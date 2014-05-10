@@ -9,7 +9,7 @@ module.exports = function (grunt) {
       },
       css: {
         files: ['sass/{,**/}*.scss'],
-        tasks: ['compass:dev', 'jekyll:dev']
+        tasks: ['sass:dist', 'jekyll:dev']
       },
       jekyll: {
 				files: ['{,**/}*.html', '_posts/*', '!_site/{,**/}*.html'],
@@ -17,22 +17,15 @@ module.exports = function (grunt) {
 			}
     },
 
-    compass: {
-      options: {
-        config: 'config.rb',
-        bundleExec: true
-      },
-      dev: {
-        options: {
-          environment: 'development'
-        }
-      },
+    sass: {
       dist: {
-        options: {
-          environment: 'production',
-          imagesDir: 'img',
-          force: true
-        }
+        files: [{
+          expand: true,
+          cwd: 'sass',
+          src: ['*.scss', '!_*.scss'],
+          dest: 'css',
+          ext: '.css'
+        }]
       }
     },
 
@@ -50,7 +43,24 @@ module.exports = function (grunt) {
       }
     },
 
-
+    grunticon: {
+      development: {
+        files: [{
+          expand: true,
+          cwd: 'icons',
+          src: ['*.svg'],
+          dest: "grunticons",
+        }],
+        options: {
+          previewhtml: "icons.html",
+          defaultWidth: "32px",
+          defaultHeight: "32px",
+          cssprefix: ".",
+          customselectors: {
+          }
+        }
+      }
+    },
 
     parallel: {
       server: {
@@ -77,7 +87,6 @@ module.exports = function (grunt) {
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-compass');
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-parallel');
@@ -85,6 +94,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-grunticon');
+  grunt.loadNpmTasks('grunt-contrib-sass');
 
   grunt.registerTask('server', ['parallel:server']);
 

@@ -7,6 +7,7 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   color: $black;
+  background-color: style-color($grey, highlight, 20%);
 }
 
 
@@ -18,7 +19,7 @@ body {
 // for our block level elements and to set the line heights of any fonts.
 // For more information, see http://24ways.org/2006/compose-to-a-vertical-rhythm
 
-#{headings()} {
+h1, h2, h3, h4, h5, h6 {
   font-family: $michroma;
   font-weight: normal;
   color: style-color($blue);
@@ -56,7 +57,7 @@ h6 {
 // The order of link states are based on Eric Meyer's article:
 // http://meyerweb.com/eric/thoughts/2007/06/11/who-ordered-the-link-states
 a {
-  @include single-transition(color, .3s);
+  transition: color 0.3s;
 
   &:link {
     color: $link;

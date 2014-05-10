@@ -14,10 +14,13 @@
 // Note: normalize.css is imported in partials/global/_global.scss. We do this
 //  so that it pulls in the variables set within the variables partial.
 ////////////////////////
-@import 'compass';
-@import 'singularitygs';
-@import 'toolkit';
-@import 'breakpoint';
+// @import 'compass';
+@import '../../bower_components/breakpoint-sass/stylesheets/breakpoint';
+@import '../../bower_components/singularity/stylesheets/singularitygs';
+@import '../../bower_components/sass-toolkit/stylesheets/toolkit';
+//@import 'singularitygs';
+//@import 'toolkit';
+//@import 'breakpoint';
 
 
 ////////////////////////

@@ -1,0 +1,38 @@
+/**
+ * @file _header_image.scss
+ *   The header image on the page.
+ */
+
+.header-image {
+  position: relative;
+  margin: 0;
+
+  img {
+    width: 200%;
+    margin-left: -25%;
+    height: auto;
+
+    @include breakpoint(580px) {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
+
+  figcaption {
+    font-size: .8em;
+    background-color: black;
+    background-color: rgba(0, 0, 0, 0.8);
+
+    $header-figcap-padding: .3em;
+    padding: $header-figcap-padding 1em;
+    color: white;
+    bottom: $header-figcap-padding * 2;
+    position: absolute;
+    right: 0;
+
+    a {
+      color: white;
+    }
+  }
+
+}

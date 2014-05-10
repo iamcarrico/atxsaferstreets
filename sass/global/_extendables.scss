@@ -9,7 +9,12 @@
   @include clearfix;
 }
 
-%max-width {
+@mixin max-width() {
   max-width: $max-width;
   margin: 0 auto 0;
+  padding: 0 .5em;
+}
+
+%max-width {
+  @include max-width;
 }

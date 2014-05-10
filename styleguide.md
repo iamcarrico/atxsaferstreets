@@ -2,6 +2,7 @@
 layout: default
 title: ATX Safer Streets Styleguide
 css_id: style_guide
+header_image: 1
 ---
 <link rel="stylesheet" href="/css/style-guide.css" type="text/css" media="all">
 

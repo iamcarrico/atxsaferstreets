@@ -1,0 +1,66 @@
+/**
+ * @file _nav.scss
+ * Navigation menu partial.
+ */
+
+#nav {
+  @extend %max-width;
+  @extend %clearfix;
+
+
+  a {
+    float: left;
+    width: 49%;
+    background-color: style-color($orange, highlight);
+    padding: 2px 0;
+    text-align: center;
+    margin-bottom: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: $michroma;
+
+    border: {
+      width: 1px 0px 4px 0px;
+      style: solid;
+      color: style-color($orange, bright);
+    }
+
+    &:hover {
+      background-color: style-color($orange, bright);
+    }
+
+    &:first-child {
+      display: none;
+    }
+
+    @include breakpoint(max-width 549px) {
+      &:nth-child(odd) {
+        float: right;
+      }
+    }
+  }
+
+  @include breakpoint(550px) {
+    a {
+      @include grid-span(1, 1, 3, 1/10, 'float');
+      margin-bottom: 8px;
+
+      &:nth-child(3n + 4) {
+        float: right;
+        margin-right: 0;
+      }
+    }
+  }
+
+  @include breakpoint($bp-two-columns) {
+    a {
+      width: 100%;
+      float: left;
+      margin-right: 0;
+      margin-bottom: 0;
+      border-radius: 0px;
+
+    }
+  }
+
+}

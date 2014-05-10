@@ -30,8 +30,8 @@
   {% endfor %}
 {% endif %}
 {% if page.url %}
-  <meta content="{{ site.url }}{{ page.url | canonical }}/" property="og:url">
-  <link rel="canonical" href="{{ page.url | canonical }}/" />
+  <meta content="{{ site.url }}{{ page.url | canonical }}" property="og:url">
+  <link rel="canonical" href="{{ page.url | canonical }}" />
 {% endif %}
   <link rel="stylesheet" href="/css/style.css" type="text/css" media="all">
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Michroma' rel='stylesheet' type='text/css'>
@@ -42,44 +42,70 @@
   {% endif %}
 </head>
 <body>
-  <header>
+  <header id="header">
     <h1 class="site-name title"><a href="/"><span class="word">ATX </span><span class="word">Safer </span><span class="word">Streets</span></a></h1>
+  </header>
+
+
+{% for image in site.data.header_images %}
+  {% if page.header_image and image.id == page.header_image %}
+  <figure class="header-image">
+    <img src="/img/header/{{ image.filename }}">
+    <figcaption>
+      <a href="{{ image.url }}">{{ image.name }}</a> by <a href="{{ image.profile_url }}">{{ image.artist }}</a> / <a href="{{ image.license_url }}">{{ image.license }}</a>
+    </figcaption>
+   </figure>
+  {% endif %}
+{% endfor %}
+
+
+  <div class="main-container">
     <nav id="nav" role="navigation">
       <div class="menubar" role="menubar">
         <a href="/" class="menuitem" role="menuitem">Home</a>
         <a href="/about" class="menuitem" role="menuitem">About</a>
         <a href="/get-involved" class="menuitem" role="menuitem">Get Involved</a>
-        <a href="/options" class="menuitem" role="menuitem">Transportation Options</a>
+        <a href="/options" class="menuitem" role="menuitem">Transportation</a>
         <a href="/media" class="menuitem" role="menuitem">Media</a>
         <a href="/research" class="menuitem" role="menuitem">Research</a>
         <a href="/proposals" class="menuitem" role="menuitem">Proposals</a>
       </div>
     </nav>
-  </header>
-  <main role="main">
-    {% if page.css_id %}
-      <div id="{{ page.css_id }}">
+
+    <main role="main">
+      {% if page.css_id %}
+        <div id="{{ page.css_id }}">
+          {{ content }}
+        </div>
+      {% else %}
         {{ content }}
+      {% endif %}
+    </main>
+
+    <footer id="footer" role="contentinfo">
+      <div class="inner">
+        <span class="contact">
+          <a href="https://www.facebook.com/ATXsaferstreets" target="_blank" class="facebook">Facebook</a>
+          <a href="https://twitter.com/ATXsaferstreets" target="_blank" class="twitter">Twitter</a>
+          <a href="mailto:atxsaferstreets@gmail.com" class="email">Email</a>
+          <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=EXAUVAETXAG34&amp;lc=US&amp;item_name=ATX%20Safer%20Streets&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" class="donate">Donate</a>
+        </span>
+
+        <span class="copyright">
+          &copy; {{site.time | date: "%Y"}} ATX Safer Streets
+        </span>
       </div>
-    {% else %}
-      {{ content }}
-    {% endif %}
-  </main>
+    </footer>
 
-  <footer role="contentinfo">
-    <div class="inner">
-      <span class="contact">
-        <a href="https://www.facebook.com/ATXsaferstreets" target="_blank" class="facebook">Facebook</a>
-        <a href="https://twitter.com/ATXsaferstreets" target="_blank" class="twitter">Twitter</a>
-        <a href="mailto:atxsaferstreets@gmail.com" class="email">Email</a>
-        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=EXAUVAETXAG34&amp;lc=US&amp;item_name=ATX%20Safer%20Streets&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" class="paypal">Donate</a>
-      </span>
+  </div>
 
-      <span class="copyright">
-        &copy; {{site.time | date: "%Y"}} ATX Safer Streets
-      </span>
-    </div>
-  </footer>
+  <script>
+      /* grunticon Stylesheet Loader | https://github.com/filamentgroup/grunticon | (c) 2012 Scott Jehl, Filament Group, Inc. | MIT license. */
+      window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
+      grunticon(["/grunticons/icons.data.svg.css", "/grunticons/icons.data.png.css", "/grunticons/icons.fallback.css"]);
+  </script>
+  <noscript><link href="/grunticons/icons.fallback.css" rel="stylesheet"></noscript>
+
 
   {% if site.development == false %}
   <script>
