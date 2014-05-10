@@ -14,5 +14,40 @@
   url: https://flic.kr/p/acJdvo
   filename: barton-springs-sunset.png
   license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
 
+- id: 3
+  name: 'Merry Christmas from Austin, Texas'
+  artist: Earl McGehee
+  profile_url: https://www.flickr.com/photos/ejmc/
+  url: https://flic.kr/p/iyw4EJ
+  filename: merry-christmas-from-austin.png
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
 
+- id: 4
+  name: "Play Me, I'm Yours"
+  artist: Ed Yourdon
+  profile_url: https://www.flickr.com/photos/yourdon/
+  url: https://flic.kr/p/9EFvK8
+  filename: play-me-im-yours.png
+  license: CC BY-NC-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+- id: 5
+  name: The Bridge
+  artist: Kevin Buehler
+  profile_url: https://www.flickr.com/photos/buehlerphoto/
+  url: https://flic.kr/p/8kDRVn
+  filename: bridge.png
+  license: CC BY-NC-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/2.0/
+
+- id: 6
+  name: The Capital
+  artist: H. Michael Miley
+  profile_url: https://www.flickr.com/photos/mike_miley/
+  url: https://flic.kr/p/7eN8GN
+  filename: the-capital.png
+  license: CC BY-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-sa/2.0/
