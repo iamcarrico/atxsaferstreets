@@ -3,6 +3,6 @@ lsi: false
 pygments: true
 paginate: 10
 category_dir: topics
-exclude: [CONTRIBUTING.md, README.md, sass, config.rb, package.json, Gruntfile.js, node_modules, Gemfile, Gemfile.lock, CNAME]
+exclude: [CONTRIBUTING.md, README.md, sass, config.rb, package.json, Gruntfile.js, node_modules, Gemfile, Gemfile.lock, CNAME,bower_components, bower.json]
 markdown: kramdown
 development: true

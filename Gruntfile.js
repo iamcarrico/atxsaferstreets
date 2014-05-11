@@ -86,7 +86,7 @@ module.exports = function (grunt) {
     parallel: {
       server: {
         grunt: true,
-        tasks: ['jekyll:server', 'watch'],
+        tasks: ['jekyll:server', 'open'],
       }
     },
 
@@ -105,6 +105,12 @@ module.exports = function (grunt) {
   			bundleExec: true,
 			}
 		},
+
+    open: {
+      dev : {
+        path: 'http://localhost:4000/',
+      },
+    }
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
@@ -117,13 +123,16 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-jekyll');
   grunt.loadNpmTasks('grunt-grunticon');
   grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-open');
 
-  grunt.registerTask('server', ['parallel:server']);
+  grunt.registerTask('serve', ['open', 'jekyll:server']);
+  grunt.registerTask('site', ['jekyll:dev']);
+  grunt.registerTask('css', ['sass:dev']);
 
   grunt.registerTask('build', [
     'sass:dist',
     'jekyll:prod',
   ]);
 
-  grunt.registerTask('default', ['server']);
+  grunt.registerTask('default', ['serve']);
 };

@@ -2,7 +2,7 @@
 layout: default
 title: ATX Safer Streets
 css_id: home
-header_image: 1
+header_image: 6
 ---
 
 ## Who are we?
