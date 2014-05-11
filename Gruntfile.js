@@ -9,16 +9,36 @@ module.exports = function (grunt) {
       },
       css: {
         files: ['sass/{,**/}*.scss'],
-        tasks: ['sass:dist', 'jekyll:dev']
+        tasks: ['sass:dev', 'jekyll:dev']
       },
       jekyll: {
-				files: ['{,**/}*.html', '_posts/*', '!_site/{,**/}*.html'],
+      files: ['{,**/}*.md', '_posts/*', '!_site/{,**/}*.html'],
 				tasks: ['jekyll:dev']
 			}
     },
 
     sass: {
+      dev: {
+        options: {
+          style: 'expanded',
+          sourcemap: true,
+          trace: true,
+          bundleExec: true,
+        },
+        files: [{
+          expand: true,
+          cwd: 'sass',
+          src: ['*.scss', '!_*.scss'],
+          dest: 'css',
+          ext: '.css'
+        }]
+      },
       dist: {
+        options: {
+          style: 'compressed',
+          bundleExec: true,
+          noCache: true,
+        },
         files: [{
           expand: true,
           cwd: 'sass',
@@ -27,6 +47,7 @@ module.exports = function (grunt) {
           ext: '.css'
         }]
       }
+
     },
 
     imagemin: {
@@ -99,8 +120,8 @@ module.exports = function (grunt) {
 
   grunt.registerTask('server', ['parallel:server']);
 
-  grunt.registerTask('deploy', [
-    'compass:dist',
+  grunt.registerTask('build', [
+    'sass:dist',
     'jekyll:prod',
   ]);
 
