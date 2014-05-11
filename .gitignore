@@ -6,6 +6,7 @@ _site
 
 # Ignore Sass stuff
 .sass-cache
+css/*.css.map
 
 # Ignore Bower
 bower_components
