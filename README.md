@@ -50,8 +50,13 @@ This will watch all the sass and markdown files, and if they change will rebuild
 
 ## Editing files
 
-Most of the files on the site are written in [Markdown](https://help.github.com/articles/github-flavored-markdown). Please take advantage of the power of these
+Most of the files on the site are written in [Markdown](https://help.github.com/articles/github-flavored-markdown). Please take advantage of the power of this tool, as it makes writing HTML much easier.
 
+All updates and posts should be in the '_posts/' folder, and you can copy/paste one to get the exact template. Make sure the date is correct inside and outside of the file, and you should be good to go. All files can be put in the 'files' directory, and please name it something nice. :-D Images should be minified with something like [ImageOptim](http://imageoptim.com/) then put into the 'img' folder.
+
+## Header images
+
+All the header images need to be ~1500px wide. You then can put the into the 'img/header' folder. Within the '_date/header_images.yml', add the proper attirbution information, and the name of the file. You can then add that specific file on any post by adding 'header_image: #', replacing the # with the ID number you gave it. 
 
 ## Building the site for production
 
