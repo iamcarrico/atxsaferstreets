@@ -19,6 +19,11 @@
       float: left;
       clear: left;
       @extend %icons;
+      text-decoration: none;
+
+      &:hover {
+        color: style-color($orange);
+      }
     }
   }
 

@@ -392,6 +392,35 @@ th {
   padding: 0;
 }
 
+/*********************
+ ** Toolkits Kickstart
+ *********************/
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+.ir {
+  position: relative;
+  height: 0;
+  padding-top: 56.25%;
+  width: 100%;
+}
+.ir > * {
+  display: block;
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;
+  top: 0;
+  margin: 0;
+  padding: 0;
+}
+
 .styleguide-swatches:after {
   content: "";
   display: table;

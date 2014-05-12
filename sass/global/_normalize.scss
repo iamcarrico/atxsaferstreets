@@ -421,3 +421,14 @@ td,
 th {
   padding: 0;
 }
+
+
+/*********************
+ ** Toolkits Kickstart
+ *********************/
+
+@import "../../bower_components/sass-toolkit/stylesheets/toolkit/kickstart";
+
+.ir {
+  @include ir;
+}

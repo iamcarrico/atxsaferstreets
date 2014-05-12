@@ -76,8 +76,20 @@ module.exports = function (grunt) {
           previewhtml: "icons.html",
           defaultWidth: "32px",
           defaultHeight: "32px",
-          cssprefix: ".",
+          cssprefix: ".i-",
           customselectors: {
+            'facebook-primary': ['.facebook'],
+            'email-primary': ['.email'],
+            'twitter-primary': ['.twitter'],
+            'donate-primary': ['.donate'],
+            'facebook-hover': ['.facebook:hover'],
+            'email-hover': ['.email:hover'],
+            'twitter-hover': ['.twitter:hover'],
+            'donate-hover': ['.donate:hover'],
+          },
+          colors: {
+            primary: '#061359',
+            hover: '#FF8500',
           }
         }
       }
