@@ -567,6 +567,7 @@ em {
 }
 .header-image img {
   width: 200%;
+  max-width: 200%;
   margin-left: -25%;
   height: auto;
 }
