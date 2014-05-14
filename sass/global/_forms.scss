@@ -3,7 +3,6 @@
 */
 
 form {
-  max-width: 525px;
 }
 
 fieldset {
@@ -18,16 +17,17 @@ select,
 textarea {
   display: block;
   width: 100%;
-  //font-family: $museo;
   padding: 0.375em;
   outline: 0;
   margin-bottom: 1em;
+  max-width: 400px;
+  float: left;
+  transition: box-shadow 0.3s ease-out, border 0.3s ease-out;
 
-  @include transition(box-shadow 0.3s ease-out, border 0.3s ease-out);
   &:focus {
-    border-color: darken($blue, 5%);
+    border-color: style-color($green, dull);
     background-color: $white;
-    @include box-shadow(0 0 4px rgba($blue, 0.5));
+    box-shadow: 0 0 4px rgba(style-color($green), 0.5);
   }
 
   @include breakpoint(720px) {
@@ -54,20 +54,24 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-  width: auto;
-  float: right;
-  border: 1px solid #c6c6c6;
-  line-height: 1.8em;
-  padding: 0 3em;
-  background-color: lighten(gray, 30%);
-  @include border-radius(2px);
+  width: 100%;
+  border: 1px solid style-color($green, dark);
+  padding-left: 3em;
+  padding-right: 3em;
+  color: white;
+  background-color: style-color($green);
 
   &:hover {
-    background-color: desaturate(lighten($blue, 20%), 55%);
+    //background-color:
   }
 
   &:active {
 
+  }
+
+  @include breakpoint(598px) {
+    width: auto;
+    margin-left: 1em;
   }
 }
 

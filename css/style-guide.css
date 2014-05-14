@@ -436,6 +436,7 @@ body {
   line-height: 1.5;
   color: #333333;
   background-color: #e0e0e3;
+  padding-bottom: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -506,6 +507,75 @@ em {
   background: #37dc74;
   color: #333333;
   text-shadow: none;
+}
+
+/**
+* Form elements: Inputs, buttons, etc.
+*/
+input,
+button,
+select,
+textarea {
+  display: block;
+  width: 100%;
+  padding: 0.375em;
+  outline: 0;
+  margin-bottom: 1em;
+  max-width: 400px;
+  float: left;
+  transition: box-shadow 0.3s ease-out, border 0.3s ease-out;
+}
+input:focus,
+button:focus,
+select:focus,
+textarea:focus {
+  border-color: #238b49;
+  background-color: white;
+  box-shadow: 0 0 4px rgba(0, 120, 45, 0.5);
+}
+@media (min-width: 45em) {
+  input,
+  button,
+  select,
+  textarea {
+    width: 80%;
+  }
+}
+
+.required {
+  color: red;
+}
+
+@media (min-width: 45em) {
+  label {
+    width: 20%;
+    float: left;
+    text-align: right;
+    padding: .375em .5em;
+  }
+}
+
+.submit,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  width: 100%;
+  border: 1px solid #00b945;
+  padding-left: 3em;
+  padding-right: 3em;
+  color: white;
+  background-color: #00782d;
+}
+@media (min-width: 37.375em) {
+  .submit,
+  button,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"] {
+    width: auto;
+    margin-left: 1em;
+  }
 }
 
 .styleguide-swatches:after, .clearfix:after {

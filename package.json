@@ -15,7 +15,8 @@
     "grunt-jekyll": "git://github.com/ChinggizKhan/grunt-jekyll.git#add-in-config",
     "grunt-grunticon": "^1.2.3",
     "grunt-contrib-sass": "^0.7.3",
-    "grunt-open": "^0.2.3"
+    "grunt-open": "^0.2.3",
+    "grunt-autoprefixer": "^0.7.3"
   },
   "engines": {
     "node": ">=0.8.0"

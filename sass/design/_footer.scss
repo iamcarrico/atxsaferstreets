@@ -16,10 +16,11 @@
 
   .contact {
     a {
+      @extend %icons;
       float: left;
       clear: left;
-      @extend %icons;
       text-decoration: none;
+      transition: color 0s;
 
       &:hover {
         color: style-color($orange);
