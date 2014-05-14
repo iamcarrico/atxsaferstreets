@@ -457,12 +457,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: #ff8500;
+  color: #fbb040;
 }
 
 h2 {
   font-size: 1.75em;
-  color: #ff8500;
+  color: #fbb040;
 }
 
 h3 {
@@ -553,6 +553,11 @@ em {
 /**
  * The header partial.
  */
+.header-wrapper {
+  background-color: #333333;
+  margin-bottom: 1em;
+}
+
 #header h1 {
   margin: 0;
 }
@@ -564,6 +569,7 @@ em {
 .header-image {
   position: relative;
   margin: 0;
+  line-height: 0;
 }
 .header-image img {
   width: 200%;
@@ -581,9 +587,10 @@ em {
   font-size: .8em;
   background-color: black;
   background-color: rgba(0, 0, 0, 0.8);
-  padding: 0.3em 1em;
+  line-height: 1.5;
+  padding: .4em 1em;
   color: white;
-  bottom: 0.6em;
+  bottom: 0;
   position: absolute;
   right: 0;
 }
@@ -698,7 +705,7 @@ main {
   text-decoration: none;
 }
 #footer .contact a:hover {
-  color: #ff8500;
+  color: #fbb040;
 }
 #footer .copyright {
   padding: .25em 0;

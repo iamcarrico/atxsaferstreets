@@ -42,21 +42,23 @@
   {% endif %}
 </head>
 <body>
-  <header id="header">
-    <h1 class="site-name title"><a href="/"><span class="word">ATX </span><span class="word">Safer </span><span class="word">Streets</span></a></h1>
+  <header class="header-wrapper">
+    <div id="header">
+      <h1 class="site-name title"><a href="/"><img src="/img/logo.jpg" alt="ATX Safer Streets" title="ATX Safer Streets"></a></h1>
+    </div>
+
+
+  {% for image in site.data.header_images %}
+    {% if page.header_image and image.id == page.header_image %}
+    <figure class="header-image">
+      <img src="/img/header/{{ image.filename }}">
+      <figcaption>
+        <a href="{{ image.url }}">{{ image.name }}</a> by <a href="{{ image.profile_url }}">{{ image.artist }}</a> / <a href="{{ image.license_url }}">{{ image.license }}</a>
+      </figcaption>
+     </figure>
+    {% endif %}
+  {% endfor %}
   </header>
-
-
-{% for image in site.data.header_images %}
-  {% if page.header_image and image.id == page.header_image %}
-  <figure class="header-image">
-    <img src="/img/header/{{ image.filename }}">
-    <figcaption>
-      <a href="{{ image.url }}">{{ image.name }}</a> by <a href="{{ image.profile_url }}">{{ image.artist }}</a> / <a href="{{ image.license_url }}">{{ image.license }}</a>
-    </figcaption>
-   </figure>
-  {% endif %}
-{% endfor %}
 
 
   <div class="main-container">

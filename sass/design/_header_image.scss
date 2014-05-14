@@ -6,6 +6,7 @@
 .header-image {
   position: relative;
   margin: 0;
+  line-height: 0;
 
   img {
     width: 200%;
@@ -23,11 +24,10 @@
     font-size: .8em;
     background-color: black;
     background-color: rgba(0, 0, 0, 0.8);
-
-    $header-figcap-padding: .3em;
-    padding: $header-figcap-padding 1em;
+    line-height: 1.5;
+    padding: .4em 1em;
     color: white;
-    bottom: $header-figcap-padding * 2;
+    bottom: 0;
     position: absolute;
     right: 0;
 

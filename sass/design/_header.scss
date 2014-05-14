@@ -2,6 +2,11 @@
  * The header partial.
  */
 
+.header-wrapper {
+  background-color: style-color($grey, dark);
+  margin-bottom: 1em;
+}
+
 #header {
   @extend %clearfix;
   @extend %max-width;

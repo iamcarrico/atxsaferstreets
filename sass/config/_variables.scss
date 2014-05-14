@@ -54,7 +54,7 @@ $black          : #333333;
 $orange: (
   dark:      #A65600,
   dull:      #BF7A30,
-  main:      #FF8500,
+  main:      rgba(251,176,64,1), // #FF8500
   bright:    #FFA340,
   highlight: #FFBC73
 );
@@ -78,7 +78,7 @@ $green: (
 $main-grey: lighten(#2c2d32, 20%);
 
 $grey: (
-  dark:      darken($main-grey, 15%),
+  dark:      rgba(51,51,51,1),
   dull:      darken($main-grey, 10%),
   main:      $main-grey,
   bright:    lighten($main-grey, 10%),
