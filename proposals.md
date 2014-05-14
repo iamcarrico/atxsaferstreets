@@ -2,6 +2,7 @@
 layout: default
 title: Our Proposals
 css_id: proposals
+header_image: 6
 ---
 
 <em>ATX Safer Streets began with a petition on Change.org.</em>

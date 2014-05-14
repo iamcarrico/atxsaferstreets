@@ -5,7 +5,8 @@
 main {
   @extend %clearfix;
   background-color: white;
-  padding: .5em .5em 1.5em;
+  padding: .5em .5em 1em;
+  margin-bottom: 2em;
 
   @include breakpoint(max-width $bp-two-columns) {
     @include max-width;

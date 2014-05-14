@@ -2,6 +2,7 @@
 layout: default
 title: How to get involved
 css_id: get-involved
+header_image: 2
 ---
 
 ## We need to pressure City officials into change.  Here's how you can help:

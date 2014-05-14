@@ -448,7 +448,6 @@ body {
   line-height: 1.5;
   color: #333333;
   background-color: #e0e0e3;
-  padding-bottom: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -726,7 +725,8 @@ input[type="button"] {
  */
 main {
   background-color: white;
-  padding: .5em .5em 1.5em;
+  padding: .5em .5em 1em;
+  margin-bottom: 2em;
 }
 @media (max-width: 48.4375em) {
   main {

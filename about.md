@@ -2,6 +2,7 @@
 layout: default
 title: About ATX Safer Streets
 css_id: about
+header_image: 2
 ---
 
 ATX Safer Streets advocates a better bus, train, and taxi system in Austin as well as improvements to our overnight parking system. We believe that a better transit structure is the key to reducing drunk drivers on the roads, as well as traffic congestion. We are asking the city to provide:
