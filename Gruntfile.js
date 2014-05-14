@@ -38,6 +38,7 @@ module.exports = function (grunt) {
           style: 'compressed',
           bundleExec: true,
           noCache: true,
+          sourcemap: false,
         },
         files: [{
           expand: true,
@@ -122,27 +123,53 @@ module.exports = function (grunt) {
       dev : {
         path: 'http://localhost:4000/',
       },
-    }
+    },
+
+    autoprefixer: {
+      options: {
+        browsers: ['last 2 version', 'ie 8', 'ie 9']
+      },
+      dev: {
+        options: {
+          map: true,
+        },
+        src: 'css/*.css'
+      },
+      dist: {
+        options: {
+          map: false,
+        },
+        src: 'css/*.css'
+      },
+    },
+
+    clean: {
+      dist: ["_site", "css", ".sass-cache"]
+    },
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
-  grunt.loadNpmTasks('grunt-contrib-jshint');
-  grunt.loadNpmTasks('grunt-contrib-imagemin');
+  //grunt.loadNpmTasks('grunt-contrib-jshint');
+  //grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.loadNpmTasks('grunt-parallel');
-  grunt.loadNpmTasks('grunt-svgmin');
-  grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-concat');
+  //grunt.loadNpmTasks('grunt-svgmin');
+  //grunt.loadNpmTasks('grunt-contrib-uglify');
+  //grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-jekyll');
   grunt.loadNpmTasks('grunt-grunticon');
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-open');
+  grunt.loadNpmTasks('grunt-autoprefixer');
+  grunt.loadNpmTasks('grunt-contrib-clean');
 
   grunt.registerTask('serve', ['open', 'jekyll:server']);
   grunt.registerTask('site', ['jekyll:dev']);
-  grunt.registerTask('css', ['sass:dev']);
+  grunt.registerTask('css', ['sass:dev', 'autoprefixer:dev']);
 
   grunt.registerTask('build', [
+    'clean:dist',
     'sass:dist',
+    'autoprefixer:dist',
     'jekyll:prod',
   ]);
 
