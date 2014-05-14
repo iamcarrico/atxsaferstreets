@@ -8,6 +8,10 @@ _site
 .sass-cache
 css/*.css.map
 
+# Ignore files directory
+files/*
+!files/README.md
+
 # Ignore Bower
 bower_components
 
