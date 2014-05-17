@@ -13,15 +13,15 @@ We want to make sure everybody gets home safely in Austin. Please use the follow
 
 ### Taxi Companies
 
-* <a href="http://www.electriccabofaustin.com" target="_blank">Electric Cab</a>
-* <a href="http://www.yellowcabaustin.com/‎" target="_blank">Yellow Cab</a>
-* <a href="http://www.lonestarcabaustin.com" target="_blank">Lonestar Cab</a>
-* <a href="http://www.austincab.com" target="_blank">Austin Cab</a>
+* <a href="http://www.electriccabofaustin.com" target="_blank">Electric Cab</a> <a href="tel:(512) 900-7734" class="call"></a>
+* <a href="http://www.yellowcabaustin.com‎" target="_blank">Yellow Cab</a><a href="tel:(512) 452-9999" class="call"></a>
+* <a href="http://www.lonestarcabaustin.com" target="_blank">Lonestar Cab</a><a href="tel:(512) 836-4900" class="call"></a>
+* <a href="http://www.austincab.com" target="_blank">Austin Cab</a><a href="tel:(512) 478-2222" class="call"></a>
 
 ### Designated Driver Services
 
-* <a href="http://sobermonkeys.com" target="_blank">Sober Monkeys</a>
-* <a href="http://www.thesparedriver.com‎" target="_blank">The Spare Driver </a>
+* <a href="http://sobermonkeys.com" target="_blank">Sober Monkeys</a><a href="tel:(512) 808-9232" class="call"></a>
+* <a href="http://thesparedriver.com" target="_blank">The Spare Driver</a><a href="tel:(512) 650-0822" class="call"></a>
 * <a href="http://www.bemydd.com/" target="_blank">Be My DD</a>
 * <a href="https://carmacarpool.com/austin" target="_blank">Carma Carpooling</a>
 

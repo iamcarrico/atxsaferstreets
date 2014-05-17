@@ -11,7 +11,7 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 
 	 width="32px" height="32px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
 
-<path id="email-10-icon" d="M256,90c44.34,0,86.026,17.267,117.38,48.62S422,211.659,422,256c0,44.34-17.267,86.026-48.62,117.38
+<path id="email-10-icon" fill="#061359" d="M256,90c44.34,0,86.026,17.267,117.38,48.62S422,211.659,422,256c0,44.34-17.267,86.026-48.62,117.38
 
 	C342.026,404.732,300.34,422,256,422s-86.026-17.268-117.38-48.62C107.267,342.026,90,300.34,90,256
 
@@ -24,4 +24,3 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 	L286.252,259.396z M300.538,248.438l61.522,61.522V201.254L300.538,248.438z"/>
 
 </svg>
-

@@ -1,48 +1,46 @@
-.i-donate-blue { background-image: url('png/donate-blue.png'); background-repeat: no-repeat; }
+.call { background-image: url('png/call.png'); background-repeat: no-repeat; }
+
+.donate-blue { background-image: url('png/donate-blue.png'); background-repeat: no-repeat; }
 
 .donate:hover,
-.i-donate-hover { background-image: url('png/donate-hover.png'); background-repeat: no-repeat; }
+.donate-hover { background-image: url('png/donate-hover.png'); background-repeat: no-repeat; }
 
-.i-donate-orange { background-image: url('png/donate-orange.png'); background-repeat: no-repeat; }
+.donate-orange { background-image: url('png/donate-orange.png'); background-repeat: no-repeat; }
 
-.donate,
-.i-donate-primary { background-image: url('png/donate-primary.png'); background-repeat: no-repeat; }
+.donate-primary { background-image: url('png/donate-primary.png'); background-repeat: no-repeat; }
 
-.i-donate { background-image: url('png/donate.png'); background-repeat: no-repeat; }
+.donate { background-image: url('png/donate.png'); background-repeat: no-repeat; }
 
-.i-email-blue { background-image: url('png/email-blue.png'); background-repeat: no-repeat; }
+.email-blue { background-image: url('png/email-blue.png'); background-repeat: no-repeat; }
 
 .email:hover,
-.i-email-hover { background-image: url('png/email-hover.png'); background-repeat: no-repeat; }
+.email-hover { background-image: url('png/email-hover.png'); background-repeat: no-repeat; }
 
-.i-email-orange { background-image: url('png/email-orange.png'); background-repeat: no-repeat; }
+.email-orange { background-image: url('png/email-orange.png'); background-repeat: no-repeat; }
 
-.email,
-.i-email-primary { background-image: url('png/email-primary.png'); background-repeat: no-repeat; }
+.email-primary { background-image: url('png/email-primary.png'); background-repeat: no-repeat; }
 
-.i-email { background-image: url('png/email.png'); background-repeat: no-repeat; }
+.email { background-image: url('png/email.png'); background-repeat: no-repeat; }
 
-.i-facebook-blue { background-image: url('png/facebook-blue.png'); background-repeat: no-repeat; }
+.facebook-blue { background-image: url('png/facebook-blue.png'); background-repeat: no-repeat; }
 
 .facebook:hover,
-.i-facebook-hover { background-image: url('png/facebook-hover.png'); background-repeat: no-repeat; }
+.facebook-hover { background-image: url('png/facebook-hover.png'); background-repeat: no-repeat; }
 
-.i-facebook-orange { background-image: url('png/facebook-orange.png'); background-repeat: no-repeat; }
+.facebook-orange { background-image: url('png/facebook-orange.png'); background-repeat: no-repeat; }
 
-.facebook,
-.i-facebook-primary { background-image: url('png/facebook-primary.png'); background-repeat: no-repeat; }
+.facebook-primary { background-image: url('png/facebook-primary.png'); background-repeat: no-repeat; }
 
-.i-facebook { background-image: url('png/facebook.png'); background-repeat: no-repeat; }
+.facebook { background-image: url('png/facebook.png'); background-repeat: no-repeat; }
 
-.i-twitter-blue { background-image: url('png/twitter-blue.png'); background-repeat: no-repeat; }
+.twitter-blue { background-image: url('png/twitter-blue.png'); background-repeat: no-repeat; }
 
 .twitter:hover,
-.i-twitter-hover { background-image: url('png/twitter-hover.png'); background-repeat: no-repeat; }
+.twitter-hover { background-image: url('png/twitter-hover.png'); background-repeat: no-repeat; }
 
-.i-twitter-orange { background-image: url('png/twitter-orange.png'); background-repeat: no-repeat; }
+.twitter-orange { background-image: url('png/twitter-orange.png'); background-repeat: no-repeat; }
 
-.twitter,
-.i-twitter-primary { background-image: url('png/twitter-primary.png'); background-repeat: no-repeat; }
+.twitter-primary { background-image: url('png/twitter-primary.png'); background-repeat: no-repeat; }
 
-.i-twitter { background-image: url('png/twitter.png'); background-repeat: no-repeat; }
+.twitter { background-image: url('png/twitter.png'); background-repeat: no-repeat; }
 
