@@ -788,9 +788,10 @@ main {
 #footer .contact a:hover {
   color: #fbb040;
 }
-#footer .copyright {
-  padding: .25em 0;
+#footer .attribution {
+  padding: 2em 0;
   display: block;
+  font-size: .8em;
   clear: both;
 }
 
