@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Us in the Media
+title: Media appearances
 css_id: media
-header_image: 4
+header_image: 7
 ---
 <a href="http://kxan.com/2014/05/27/no-more-towing-on-weekends-from-i-35-lot-city-announces" target="_blank">KXAN report on overnight towing beneath I-35</a>
 
