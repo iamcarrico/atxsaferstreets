@@ -10,7 +10,8 @@ header_image: 6
 
 
 
-## Most recent update
+## Recent updates
 
-{% assign post = site.posts.first %}
-{% include teaser.html post=post %}
+{% for post in site.posts limit:3 %}
+  {% include teaser.html post=post %}
+{% endfor %}
