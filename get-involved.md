@@ -8,8 +8,6 @@ header_image: 2
 ## We need to pressure City officials into change.  Here's how you can help:
 
 
-<a href="http://bit.ly/1lzKvtE">Please take a moment to take our short, anonymous survey on driving, public transit and drinking in Austin</a>
-
 * Anytime your bus is late, doesn't show, or is too full please tweet @CapMetroATX with time and route.
 * Anytime you have trouble with taxi service, tweet @austintexasgov with your complaint.
 * If your car gets ticketed excessively or towed, tweet @austintexasgov with your parking location.

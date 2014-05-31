@@ -56,7 +56,7 @@ All updates and posts should be in the '_posts/' folder, and you can copy/paste 
 
 ## Header images
 
-All the header images need to be ~1500px wide. You then can put the into the 'img/header' folder. Within the '_date/header_images.yml', add the proper attirbution information, and the name of the file. You can then add that specific file on any post by adding 'header_image: #', replacing the # with the ID number you gave it. 
+All the header images need to be 1500px wide, and no more that 630px tall. You then can put the into the 'img/header' folder. Within the '_date/header_images.yml', add the proper attirbution information, and the name of the file. You can then add that specific file on any post by adding 'header_image: #', replacing the # with the ID number you gave it. 
 
 ## Building the site for production
 
