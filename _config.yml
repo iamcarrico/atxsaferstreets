@@ -2,7 +2,8 @@ name: ATX Safer Streets
 lsi: false
 pygments: true
 url: http://atxsaferstreets.org
-paginate: 10
+paginate: 5
+paginate_path: "updates/page:num"
 timezone: America/Chicago
 category_dir: topics
 exclude: [CONTRIBUTING.md, README.md, sass, config.rb, package.json, Gruntfile.js, node_modules, Gemfile, Gemfile.lock, CNAME, images, bower_components, bower.json]
