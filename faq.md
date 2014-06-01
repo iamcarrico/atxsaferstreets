@@ -10,7 +10,7 @@ Miss a question? [Email us!](mailto:atxsaferstreets@gmail.com)
 **Your organization seems to encourage irresponsible drinking.** 
 Personal responsibility is at the very core of what we are doing. We believe that when given enough options, most people will make the responsible decision. Conversely, our anonymous survey of 651 Austin residents found that most people in Austin who drive while intoxicated do it because they don’t feel that there are very many alternatives. We do not encourage irresponsible behavior; however we acknowledge that the city’s current methods of dealing with this behavior are ineffective, and we are proposing a more proactive solution. 
  
- **Why should my tax dollars pay for drunk people to get home? **
+ **Why should my tax dollars pay for drunk people to get home?**
 Drunk driving affects everyone, whether you patronize bars/nightclubs or not. The cost of extra police, trials, and investigations is passed on to all taxpayers. No one wants to be in a DWI-related accident; our proposals are focused on getting sober people to leave their cars at home before they start drinking. Additionally, consider the tax dollars of tourists, bar/nightclub/restaurant patrons, and service industry workers. All of these people pay taxes and deserve a safe way to get back to their hotel, to get home, and to get to and from work. 
  
  **I heard that ATX Safer Streets is funded by the rideshare industry.** 
