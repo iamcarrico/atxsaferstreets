@@ -4,8 +4,9 @@ title: About ATX Safer Streets
 css_id: about
 header_image: 2
 ---
-
-ATX Safer Streets advocates a better bus, train, and taxi system in Austin as well as improvements to our overnight parking system. We believe that a better transit structure is the key to reducing drunk drivers on the roads, as well as traffic congestion. We are asking the city to provide:
+###Have some questions? Read our FAQ [HERE](faq.html "FAQ")
+   
+ATX Safer Streets is a coalition of concerned citizens advocating a better bus, train, and taxi system in Austin as well as improvements to our overnight parking system. We believe that a better transit structure is the key to reducing drunk drivers on the roads, as well as traffic congestion. We are asking the city to provide:
 
 1. More buses, running later, to more parts of the city.
 2. Changes to Cap Metro that will allow the trains to run later on weekends.
@@ -22,4 +23,11 @@ We do not believe our proposal will eliminate the drunk driving problem; we do b
 
 We believe that improvements to the city's public transit infrastructure are desperately needed in order to maintain Austin's continued growth.  We believe that public transit improvements will help to reduce the workload of APD and EMS and will create a safer city overall.  We also believe that allowing more competition into the transit marketplace is good for the consumer, the city, and private businesses and all will ultimately profit from the changes we're proposing.
 
-You can read our press release [Here](/pdf/pressrelease.pdf "Press Release").i
+####For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries"). 
+*[May press release](/pdf/pressrelease52014.pdf "Press Release")   
+*[April press release](/pdf/pressrelease.pdf "Press Release")
+####For political outreach inquiries contact [Matt Letteleir](mailto:matt@atxsaferstreets.org "political outreach inquiries").   
+####For all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
+
+
+   
