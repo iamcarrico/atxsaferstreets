@@ -28,5 +28,7 @@ We believe that improvements to the city's public transit infrastructure are des
 *This is our [April press release](/pdf/pressrelease.pdf "Press Release")   
 
 ####For political outreach inquiries contact [Matt Letteleir](mailto:matt@atxsaferstreets.org "political outreach inquiries").  
-####For volunteer inquiries email [us](mailto:volunteer@atxsaferstreets.org "volunteer email").     
+
+####For volunteer inquiries email [us](mailto:volunteer@atxsaferstreets.org "volunteer email").  
+
 ####For all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
