@@ -2,7 +2,7 @@
 layout: default
 title: Our Proposals
 css_id: proposals
-header_image: 6
+header_image: 2
 ---
 
 <em>ATX Safer Streets began with a petition on Change.org on March 24th, 2014.</em>
