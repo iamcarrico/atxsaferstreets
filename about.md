@@ -4,7 +4,6 @@ title: About ATX Safer Streets
 css_id: about
 header_image: 2
 ---
-##Have some questions? 
 
 ###Read our FAQ [HERE](faq.html "FAQ")
    
@@ -29,8 +28,10 @@ We believe that improvements to the city's public transit infrastructure are des
 This is our [May press release](/pdf/pressrelease52014.pdf "Press Release")      
 This is our [April press release](/pdf/pressrelease.pdf "Press Release")    
 
+####For endorsement or sponsorship inquiries contact [Neil Diaz](mailto:neil@atxsaferstreets.org "sponsorship inquiries")
+
 ####For political outreach inquiries contact [Matt Letteleir](mailto:matt@atxsaferstreets.org "political outreach inquiries").  
 
 ####For volunteer inquiries email [us](mailto:volunteer@atxsaferstreets.org "volunteer email").  
 
-####For all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
+####For all other inquiries including business coalition and public appearances email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
