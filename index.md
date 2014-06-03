@@ -5,10 +5,6 @@ css_id: home
 header_image: 6
 ---
 
-## Who are we?
-
-
-
 
 ## Recent updates
 
