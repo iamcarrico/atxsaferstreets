@@ -4,6 +4,10 @@ title: Media appearances
 css_id: media
 header_image: 6
 ---
+####For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries"). 
+* This is our [May press release](/pdf/pressrelease52014.pdf "Press Release")      
+* This is our [April press release](/pdf/pressrelease.pdf "Press Release")
+
 
 <a href="http://kxan.com/2014/05/27/no-more-towing-on-weekends-from-i-35-lot-city-announces" target="_blank">KXAN report on overnight towing beneath I-35</a>
 
