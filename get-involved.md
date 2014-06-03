@@ -5,10 +5,10 @@ css_id: get-involved
 header_image: 7
 ---
 
-Here are the results of our informal anonymous survey of 651 people:   
-[Infographic](/images/atxssinfographic.png "infographic")    
-[PDF of infographic](/pdf/atxssinfographic.pdf "PDF results")  
-[Text PDF of results](/pdf/surveyresults.pdf "Text PDF of results")  
+Here are the results of our informal anonymous survey of 651 people:
+[Infographic](/files/2014-05-08/atxssinfographic.png "infographic")
+[PDF of infographic](/files/2014-05-08/atxssinfographic.pdf "PDF results")  
+[Text PDF of results](/files/2014-05-08/surveyresults.pdf "Text PDF of results")  
 
 
 ## We need to pressure City officials into change.  Here's how you can help:
@@ -22,7 +22,7 @@ Here are the results of our informal anonymous survey of 651 people:
 ### Cabbies cannot legally refuse your fare over location, distance, or lack of cash.  
 If a cabbie has refused you service, took an incorrect route to drive up fare, or done anything inappropriate you can report them <a href="http://www.austintexas.gov/online-form/ground-transportation-complaint-form" target="_blank">here</a>.  Please make sure that you write down the cabbie's ID at the time of the incident.
 
-### Do you feel like you've been illegally towed? 
+### Do you feel like you've been illegally towed?
 Pay your fees and then call 311 to report it.  They will assign a detective to your case.
 
 ### Email Your Representatives
@@ -36,11 +36,11 @@ We encourage emails to City Council, Cap Metro and APD:
 
 <a href="http://www.austintexas.gov/email/parking" target="_blank">Click here</a> to email parking enforcement.
 
- 
+
 ### Volunteer Your Time
 We need volunteers to help distribute print to bus stops, businesses and around downtown.  
-We also need research volunteers.   
-Please <a href="mailto:volunteer@atxsaferstreets.com" target="_blank">email</a> us if you can help.
+We also need research volunteers.
+Please <a href="mailto:volunteer@atxsaferstreets.org" target="_blank">email</a> us if you can help.
 
 ### Help Us Cover Our Costs
 
