@@ -33,4 +33,4 @@ We want to make sure everybody gets home safely in Austin. Please use the follow
 
 ### Did we miss a service?
 
-Please email us, so we can have an up-to-date list.
+Please [email us](mailto:atxsaferstreets@gmail.com "email"), so we can have an up-to-date list.
