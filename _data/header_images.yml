@@ -16,17 +16,8 @@
   license: CC BY 2.0
   license_url: https://creativecommons.org/licenses/by/2.0/
 
-- id: 3
-  name: Blue Hour Skyline
-  artist: Dave Wilson
-  profile_url: https://www.flickr.com/photos/dawilson/
-  url: https://flic.kr/p/abKWk5
-  filename: blue-hour-skyline.png
-  license: CC BY-NC-ND 2.0
-  license_url: https://creativecommons.org/licenses/by-nc-nd/2.0/
-
 - id: 4
-  name: Play Me, I'm Yours
+  name: "Play Me, I'm Yours"
   artist: Ed Yourdon
   profile_url: https://www.flickr.com/photos/yourdon/
   url: https://flic.kr/p/9EFvK8
@@ -35,7 +26,7 @@
   license_url: https://creativecommons.org/licenses/by-nc-sa/2.0/
 
 - id: 5
-  name: Stevie Ray Vaughan and Austin Skyline 
+  name: Stevie Ray Vaughan and Austin Skyline
   artist: Knowsphotos
   profile_url: https://www.flickr.com/photos/gold41/
   url: https://flic.kr/p/78yNvy
@@ -60,7 +51,7 @@
   filename: austin-graffiti-wall.png
   license: CC BY-NC-SA 2.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/2.0/
-  
+
 - id: 8
   name: Deer Tick at Emo's
   artist:  Patrick Lewis
