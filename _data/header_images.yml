@@ -16,6 +16,15 @@
   license: CC BY 2.0
   license_url: https://creativecommons.org/licenses/by/2.0/
 
+- id: 3
+  name: Austin Skyline At Dusk
+  artist: Randall Chancellor
+  profile_url: https://www.flickr.com/photos/jrandallc/
+  url: https://flic.kr/p/92F333
+  filename: austin-skyline-at-dusk.jpg
+  license: CC BY-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-sa/2.0/
+
 - id: 4
   name: "Play Me, I'm Yours"
   artist: Ed Yourdon
@@ -30,12 +39,12 @@
   artist: Knowsphotos
   profile_url: https://www.flickr.com/photos/gold41/
   url: https://flic.kr/p/78yNvy
-  filename: stevie-ray.jpg
+  filename: stevie-ray.png
   license: CC BY-NC 2.0
   license_url: https://creativecommons.org/licenses/by-nc/2.0/
 
 - id: 6
-  name: The Capitol
+  name: The Capital
   artist: H. Michael Miley
   profile_url: https://www.flickr.com/photos/mike_miley/
   url: https://flic.kr/p/7eN8GN
