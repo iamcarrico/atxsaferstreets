@@ -6,9 +6,9 @@ header_image: 2
 ---
 
 Here are the results of our informal anonymous survey of 651 people:   
-* [Infographic](/images/atxssinfographic.png "infographic")    
-* [PDF of infographic](/pdf/atxssinfographic.pdf "PDF results")  
-* [Text PDF of results](/pdf/surveyresults.pdf "Text PDF of results")  
+[Infographic](/images/atxssinfographic.png "infographic")    
+[PDF of infographic](/pdf/atxssinfographic.pdf "PDF results")  
+[Text PDF of results](/pdf/surveyresults.pdf "Text PDF of results")  
 
 
 ## We need to pressure City officials into change.  Here's how you can help:
