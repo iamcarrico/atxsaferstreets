@@ -5,10 +5,11 @@ css_id: proposals
 header_image: 6
 ---
 
-<em>ATX Safer Streets began with a petition on Change.org.</em>
+<em>ATX Safer Streets began with a petition on Change.org on March 24th, 2014.</em>
 
+###We've updated our Cap Metro route map <a href="/pdf/atxssaddend1.pdf" target="_blank">here</a> and added our presentation to the Urban Transportation Commission <a href="/pdf/Presentation.pdf" target="_blank">here</a>.
 
-This is the original text of the petition, <a href="/pdf/signatures.pdf" target="_blank">signatures</a> and <a href="/pdf/comments.pdf" target="_blank">comments</a>. We have also included the <a href="/pdf/proposal.pdf" target="_blank">proposal</a> and <a href="/pdf/mapproposal.pdf" target="_blank">Cap Metro route map</a> we attached to the petition for City Officials. <a href="/pdf/speechdraft.pdf">Here</a> is the PDF of the speech we gave to City Council as well.
+####This is the original text of the petition, <a href="/pdf/signatures.pdf" target="_blank">signatures</a> and <a href="/pdf/comments.pdf" target="_blank">comments</a>. We have also included the <a href="/pdf/proposal.pdf" target="_blank">proposal</a> and <a href="/pdf/mapproposal.pdf" target="_blank">Cap Metro route map</a> we attached to the petition for City Officials. <a href="/pdf/speechdraft.pdf">Here</a> is the PDF of the speech we gave to City Council as well.
 
 
 ### The original petition
