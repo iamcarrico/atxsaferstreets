@@ -5,7 +5,10 @@ css_id: get-involved
 header_image: 2
 ---
 
-Here are the results of our informal anonymous survey of 651 people: [Infographic](/images/atxssinfographic.png "infographic"), [PDF of infographic](/pdf/atxssinfographic.pdf "PDF results"), [Text PDF of results](/pdf/surveyresults.pdf "Text PDF of results")
+Here are the results of our informal anonymous survey of 651 people:   
+* [Infographic](/images/atxssinfographic.png "infographic")    
+* [PDF of infographic](/pdf/atxssinfographic.pdf "PDF results")  
+* [Text PDF of results](/pdf/surveyresults.pdf "Text PDF of results")  
 
 
 ## We need to pressure City officials into change.  Here's how you can help:
@@ -16,10 +19,10 @@ Here are the results of our informal anonymous survey of 651 people: [Infographi
 * If your car gets ticketed excessively or towed, tweet *@austintexasgov* with your parking location.
 
 
-####Cabbies cannot legally refuse your fare over location, distance, or lack of cash.  
+### Cabbies cannot legally refuse your fare over location, distance, or lack of cash.  
 If a cabbie has refused you service, took an incorrect route to drive up fare, or done anything inappropriate you can report them <a href="http://www.austintexas.gov/online-form/ground-transportation-complaint-form" target="_blank">here</a>.  Please make sure that you write down the cabbie's ID at the time of the incident.
 
-####Do you feel like you've been illegally towed? 
+### Do you feel like you've been illegally towed? 
 Pay your fees and then call 311 to report it.  They will assign a detective to your case.
 
 ### Email Your Representatives
