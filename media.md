@@ -2,8 +2,9 @@
 layout: default
 title: Media appearances
 css_id: media
-header_image: 7
+header_image: 6
 ---
+
 <a href="http://kxan.com/2014/05/27/no-more-towing-on-weekends-from-i-35-lot-city-announces" target="_blank">KXAN report on overnight towing beneath I-35</a>
 
 <a href="http://austin.culturemap.com/news/city-life/05-27-14-downtown-austin-insterstate35-i35-parking-lot-hours-towing" target="_blank">Austin Culture Map article on overnight towing beneath I-35</a>
