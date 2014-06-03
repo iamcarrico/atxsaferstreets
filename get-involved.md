@@ -2,7 +2,7 @@
 layout: default
 title: How to get involved
 css_id: get-involved
-header_image: 2
+header_image: 7
 ---
 
 Here are the results of our informal anonymous survey of 651 people:   
