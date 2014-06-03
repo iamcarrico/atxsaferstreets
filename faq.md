@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 css_id: faq
-header_image: 4
+header_image: 8
 ---
 
 Miss a question? [Email us!](mailto:atxsaferstreets@gmail.com) 
