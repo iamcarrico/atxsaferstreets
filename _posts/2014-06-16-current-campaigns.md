@@ -8,7 +8,7 @@ categories:
 
 ### Good morning Austin!  Here is an updated list of the current campaigns we have running.  Please take a moment to participate and share!
 
-We've created a forum on <a href="http://speakupaustin.org/forums/improve-customer-service-and-the-development-and-permitting-process/ideas/we-must-expand-late-night-transportation-options-to-save-lives-taxpayer-money-and-help-create-and-keep-jobs" target"_blank">Speak Up Austin</a>, the City's website for public involvement. The more votes we get, the more likely the City is to discuss it, so please vote and share!
+We've created a forum on <a href="http://speakupaustin.org/forums/improve-customer-service-and-the-development-and-permitting-process/ideas/we-must-expand-late-night-transportation-options-to-save-lives-taxpayer-money-and-help-create-and-keep-jobs" target="_blank">Speak Up Austin</a>, the City's website for public involvement. The more votes we get, the more likely the City is to discuss it, so please vote and share!
 
 [Cap Metro form letter](http://atxsaferstreets.org/forms/Cap_Metro/Cap_Metro.php).  We are asking for extended hours on several routes.  You can either send the letter as is or change to your liking.
 
