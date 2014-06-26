@@ -10,6 +10,6 @@ ATXSS Live is dedicated to assisting in promotion and fundraising for victims in
 Using our wide social media network, we can help solicit for funds, promote benefits and fundraisers.
 We can also assist in various other capacities if the need is there.
 
-We're an email away, let us help!  
+We're here for Austin, let us help!  
 
-### Please shoot us an email at <live@atxsaferstreets.org> with some simple details and we'll respond as fast as we can.
+### Please email us at <outreach@atxsaferstreets.org>.
