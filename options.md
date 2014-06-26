@@ -11,7 +11,7 @@ We want to make sure everybody gets home safely in Austin. Please use the follow
 
 * <a href="http://www.capmetro.org/" target="_blank">Capital Metro</a>
 
-href="https://itunes.apple.com/us/app/capmetro/id787315615?ls=1&amp;mt=8"><img alt="iPhone App Store" src=""></a>
+<a href="https://itunes.apple.com/us/app/capmetro/id787315615?ls=1&amp;mt=8"><img alt="iPhone App Store" src=""></a>
 <a href="https://play.google.com/store/apps/details?id=co.bytemark.cmta"><img alt="Google Play" src=""></a>
 <a href="http://www.windowsphone.com/en-us/store/app/capmetro/ba45ef5c-4680-4f15-aece-d71e9e98adf0"><img alt="Windows Phone App Store" src=""></a>
 
@@ -39,7 +39,7 @@ href="https://itunes.apple.com/us/app/capmetro/id787315615?ls=1&amp;mt=8"><img a
 <a href="https://play.google.com/store/apps/details?id=com.avego.avegodriver"><img alt="Google Play" src=""></a>
 
 ### Other services
-* <a href="http://www.ridescoutapp.com/" target="_blank">RideScout mobile app: get bus, bike, taxi, car share, rideshare, parking and walking directions</a>
+* <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: encompassing all transit</a>
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src=""></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src=""></a>
 
