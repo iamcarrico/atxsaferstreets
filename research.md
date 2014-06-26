@@ -6,8 +6,8 @@ header_image: 4
 ---
 
 ### Here are the results of our informal anonymous survey of 651 people:
-[Infographic](/files/2014-05-08/atxssinfographic.png "infographic")
-[PDF of infographic](/files/2014-05-08/atxssinfographic.pdf "PDF results")  
+[Infographic](/files/2014-05-08/atxssinfographic.png "infographic")    
+[PDF of infographic](/files/2014-05-08/atxssinfographic.pdf "PDF results")      
 [Text PDF of results](/files/2014-05-08/surveyresults.pdf "Text PDF of results")
 
 ### DWI's in Austin by year:
