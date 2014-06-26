@@ -15,5 +15,5 @@ So why have we created the business coalition? The obvious fact is that the busi
 And why would you want to join?  This is an organization that brings like minded establishments together; those that serve alcohol and provide entertainment. This allows us to file complaints with the City in a manner that takes the legal pressure off of individual bar owners.  Too many in the industry are all too aware of the legal ramifications of admitting intoxicated people are leaving their establishments. This coalition allows us to lobby on your behalf.  Your logo will be featured on our Friends Of ATXSS site as well.
 
 
-<iframe src="https://docs.google.com/forms/d/1Y2YuOUnD04YLZA41F0lCTrK12FtreoLA52Tvo0SZMcY/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1Y2YuOUnD04YLZA41F0lCTrK12FtreoLA52Tvo0SZMcY/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
