@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Friends of ATXSS
-css_id: get-involved
+css_id: friends
 header_image: 8
 ---
 
