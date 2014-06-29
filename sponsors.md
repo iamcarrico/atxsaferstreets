@@ -10,17 +10,17 @@ header_image: 8
 
 ## Proudly sponsored by:
 
-<a href="http://www.treatyoakdistilling.com/" target="_blank"><img alt="treaty oaks" src="http://www.winefoodfoundation.org/wp-content/uploads/2012/12/treaty-oak-distilling-co-logo_black-on-white_lg.jpg"></a>
+<a href="http://www.treatyoakdistilling.com/" target="_blank"><img alt="treaty oaks" src="http://www.winefoodfoundation.org/wp-content/uploads/2012/12/treaty-oak-distilling-co-logo_black-on-white_lg.jpg" width="175"></a>
 
 
 ## Proudly endorsed by:
 
 <a href="http://austinmusicpeople.org" target="_blank"><img alt="austin music people" src="http://austinmusicpeople.org/wp-content/uploads/amp.png"></a>
-<img alt="RRCD" src=""><a href="http://wearethepartypeople.com/" target="_blank"><img alt="funhouse services" src="http://wearethepartypeople.com/wp-content/uploads/2013/10/funhouselogored.png"></a>
+<img alt="RRCD" src=""><a href="http://wearethepartypeople.com/" target="_blank"><img alt="funhouse services" src="http://wearethepartypeople.com/wp-content/uploads/2013/10/funhouselogored.png" width="150"></a>
 
 
 ## Special thanks to:
 
-<a href="http://www.neildiaz.com/site/" target="_blank"><img alt="neil diaz" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnlR7LW3FV-e2nLyCRCR-5zMBWC8ngAsDdF0I5HquGFLTgAyk6"></a>
+<a href="http://www.neildiaz.com/site/" target="_blank"><img alt="neil diaz" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnlR7LW3FV-e2nLyCRCR-5zMBWC8ngAsDdF0I5HquGFLTgAyk6" width="125"></a>
 <a href="http://iamcarrico.com/" target="_blank"><img alt="Ian Carrico" src=""></a>
 PLACEHOLDER FOR RACHEL WARD.
