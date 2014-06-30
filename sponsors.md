@@ -21,6 +21,6 @@ header_image: 8
 
 ## Special thanks to:
 
-<a href="http://www.neildiaz.com/site/" target="_blank"><img alt="neil diaz" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnlR7LW3FV-e2nLyCRCR-5zMBWC8ngAsDdF0I5HquGFLTgAyk6" width="125"></a>
-<a href="http://iamcarrico.com/" target="_blank"><img alt="Ian Carrico" src=""></a>
-PLACEHOLDER FOR RACHEL WARD.
+<a href="http://www.neildiaz.com/site/" target="_blank">Neil Diaz PResents</a>   
+<a href="http://iamcarrico.com/" target="_blank">Ian Carrico</a>   
+Rachel Ward 
