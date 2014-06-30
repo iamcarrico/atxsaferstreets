@@ -8,6 +8,7 @@ header_image: 6
 * This is our [May press release](/files/Pressrelease52014.pdf "Press Release")
 * This is our [April press release](/files/pressrelease.pdf "Press Release")
 
+<a href="http://www.givingcityaustin.com/2014/06/04/how-atx-safer-streets-made-an-impact/" target="_blank">Giving City article of ATX Safer Streets</a>
 
 <a href="http://kxan.com/2014/05/27/no-more-towing-on-weekends-from-i-35-lot-city-announces" target="_blank">KXAN report on overnight towing beneath I-35</a>
 
