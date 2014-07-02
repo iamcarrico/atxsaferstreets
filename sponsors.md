@@ -22,5 +22,5 @@ header_image: 8
 ## Special thanks to:
 
 <a href="http://www.neildiaz.com/site/" target="_blank">Neil Diaz PResents</a>   
-<a href="http://iamcarrico.com/" target="_blank">Ian Carrico</a>   
+<a href="https://twitter.com/iamcarrico" target="_blank">Ian Carrico</a>   
 Rachel Ward 
