@@ -16,7 +16,7 @@ header_image: 8
 ## Proudly endorsed by:
 
 <a href="http://austinmusicpeople.org" target="_blank"><img alt="austin music people" src="http://austinmusicpeople.org/wp-content/uploads/amp.png"></a>
-<img alt="RRCD" src=""><a href="http://wearethepartypeople.com/" target="_blank"><img alt="funhouse services" src="http://wearethepartypeople.com/wp-content/uploads/2013/10/funhouselogored.png" width="150"></a>
+<a href="http://wearethepartypeople.com/" target="_blank"><img alt="funhouse services" src="http://wearethepartypeople.com/wp-content/uploads/2013/10/funhouselogored.png" width="150"></a>
 
 
 ## Special thanks to:
