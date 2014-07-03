@@ -2,7 +2,7 @@
 layout: default
 title: Sponsors and Thanks
 css_id: thanks
-header_image: 8
+header_image: 13
 ---
 
 ### We want to thank the many individuals who have donated their time and money to help in our mission to make Austin's streets safer.
