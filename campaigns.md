@@ -2,7 +2,7 @@
 layout: default
 title: Public Campaigns
 css_id: campaigns
-header_image: 7
+header_image: 12
 ---
 
 ## We need to pressure City officials into change.  Here's how you can help:
