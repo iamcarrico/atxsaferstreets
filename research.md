@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Data
-css_id: research
-header_image: 4
+css_id: data
+header_image: 10
 ---
 
 ### Here are the results of our informal anonymous survey of 651 people:
