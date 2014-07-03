@@ -69,3 +69,48 @@
   filename: deer-tick.jpg
   license: CC BY-NC 2.0
   license_url: https://creativecommons.org/licenses/by-nc/2.0/
+  
+- id: 9
+  name: Austin Diner
+  artist:  Joopey
+  profile_url: https://www.flickr.com/photos/joopey/
+  url: https://flic.kr/p/bSVYu4
+  filename: austin-diner.jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
+  
+- id: 10
+  name: Austin 6th Street
+  artist:  Joopey
+  profile_url: https://www.flickr.com/photos/joopey/
+  url: https://flic.kr/p/bE2gW9
+  filename: austin-6th-street.jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
+  
+- id: 11
+  name: Gibson Guitar Showroom
+  artist:  Nan Palmero
+  profile_url: https://www.flickr.com/photos/nanpalmero/
+  url: https://flic.kr/p/bFNehF
+  filename: gibson-guitar-showroom.jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
+  
+- id: 12
+  name: Money Shot
+  artist:  Earl McGehee
+  profile_url: https://www.flickr.com/photos/ejmc/
+  url: https://flic.kr/p/9A37wt
+  filename: money-shot.jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
+  
+- id: 13
+  name: UT Tower
+  artist:  Earl McGehee
+  profile_url: https://www.flickr.com/photos/ejmc/
+  url: https://flic.kr/p/cmwckh
+  filename: ut-tower.jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0/
