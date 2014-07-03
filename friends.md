@@ -2,7 +2,7 @@
 layout: default
 title: Friends of ATXSS
 css_id: friends
-header_image: 8
+header_image: 9
 ---
 
 ### Friends Of ATXSS is an informal business coalition for bars, venues and clubs.
