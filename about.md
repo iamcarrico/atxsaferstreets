@@ -31,8 +31,7 @@ We believe that improvements to the city’s public transit infrastructure are d
 
 #### For endorsement or sponsorship inquiries contact [Neil Diaz](mailto:neil@atxsaferstreets.org "sponsorship inquiries")
 
-#### For political outreach inquiries contact [Matt Letteleir](mailto:matt@atxsaferstreets.org "political outreach inquiries").  
+#### For political outreach, business coalition, public appearances, and all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
 
 #### For volunteer inquiries email [us](mailto:volunteer@atxsaferstreets.org "volunteer email").  
 
-#### For all other inquiries including business coalition and public appearances email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
