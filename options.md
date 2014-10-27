@@ -5,7 +5,7 @@ css_id: options
 header_image: 5
 ---
 
-## The best way to ensure you make it home safely is to plan ahead. Please refer to this list when planning your night. Here you will find options for alternative transportation, and what to do if you need to leave your car behind.
+#### The best way to ensure you make it home safely is to plan ahead. Please refer to this list when planning your night. Here you will find options for alternative transportation, and what to do if you need to leave your car behind.
 
 
 ### Public Transportation
@@ -19,16 +19,15 @@ header_image: 5
 
 ### Taxi Companies
 
-* <a href="http://www.electriccabofaustin.com" target="_blank">Electric Cab</a> <a href="tel:(512) 900-7734" class="call"></a>
 * <a href="http://www.yellowcabaustin.com‎" target="_blank">Yellow Cab</a><a href="tel:(512) 452-9999" class="call"></a>
 <a href="http://itunes.apple.com/us/app/hailacab-austin/id537086994?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.mtdata.hailacabaustin"><img alt="Google Play" src="/img/app/google.png"></a>
-
 * <a href="http://www.lonestarcabaustin.com" target="_blank">Lonestar Cab</a><a href="tel:(512) 836-4900" class="call"></a>
 <a href="http://itunes.apple.com/us/app/taxi-magic/id299226386?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridecharge.android.taximagic"><img alt="Google Play" src="/img/app/google.png"></a>
-
 * <a href="http://www.austincab.com" target="_blank">Austin Cab</a><a href="tel:(512) 478-2222" class="call"></a>
+* <a href="http://www.electriccabofaustin.com" target="_blank">Electric Cab</a> <a href="tel:(512) 900-7734" class="call"></a>
+
 
 ### Transportation Network Companies
 
@@ -37,6 +36,7 @@ header_image: 5
 * <a href="http://www.uber.com" Target="_blank">Uber</a><a href="https://itunes.apple.com/us/app/uber/id368677368?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ubercab"><img alt="Google Play" src="/img/app/google.png"></a>
 <a href="https://www.windowsphone.com/en-us/store/app/uber/b905a877-bd55-4ce7-a7aa-467cdc3a21f4"><img alt="Windows Phone App Store" src="/img/app/windows.png"></a>
+
 
 ### Designated Driver Services
 
@@ -47,20 +47,26 @@ header_image: 5
 * <a href="http://thesparedriver.com" target="_blank">The Spare Driver</a><a href="tel:(512) 650-0822" class="call"></a>
 * <a href="http://www.bemydd.com/" target="_blank">Be My DD</a>
 
+
 ### Other services
-* <a href="http://www.austintexas.gov/department/ground-transportation" target="_blank">Full list of vehicle for hire choices</a>
-* <a href="http://austintexas.gov/sites/default/files/files/Transportation/Pedicab_Companies.pdf" target="_blank">Pedicab companies</a>
-* <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: encompassing all transit</a>
+
+* <a href="http://www.austintexas.gov/department/ground-transportation" target="_blank">List of vehicle for hire choices</a>
+* <a href="http://austintexas.gov/sites/default/files/files/Transportation/Pedicab_Companies.pdf" target="_blank">List of Pedicab companies</a>
+* <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: transportation and parking aggregator</a>
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src="/img/app/google.png"></a>
 
+
 ## Overnight parking in downtown
+
 * The city DOES NOT tow from the streets, except on 6th st between Red River and Brazos after 9pm on Thursday/ Friday/ Saturday night. 
 * You can now park underneath the I-35 bridge Friday and Saturday night without getting towed. 
 * You may purchase time into the next day at any parking kiosk after midnight. 
 * If you forget to extend your parking and get ticketed, you can get that ticket dismissed with a taxi or bus receipt. <a href="https://austintexas.gov/sites/default/files/files/Ticket_Waiver_form.pdf" target="_blank">Click here</a> to be taken to the form on the City's website.
 
+
 ### Other information
+
 * <a href="http://austintexas.gov/sites/default/files/files/cbd_off_street_overnight_parking_3_072014.pdf" target="_blank">PDF map of DT overnight parking options</a>
 * <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/PARKING_WAY_FINDING_MAP_072012.pdf" target="_blank">PDF map of DT transportation options</a>
 
@@ -74,6 +80,6 @@ Pay your fees and then call 311 to report it.  They will assign a detective to y
 
 
 
-### Did we miss a service?
+## Did we miss a service?
 
 Please [email us](mailto:atxsaferstreets@gmail.com "email"), so we can have an up-to-date list.
