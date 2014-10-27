@@ -5,7 +5,7 @@ css_id: options
 header_image: 5
 ---
 
-We want to make sure everybody gets home safely in Austin. Please use the following services to make sure you get home safely every night.  
+Use this handy guide to find transportation and parking options, as well as get information on your rights and other relevant information.   
 
 ### Public Transportation
 
@@ -31,23 +31,36 @@ We want to make sure everybody gets home safely in Austin. Please use the follow
 
 ### Designated Driver Services
 
+* <a href="http://urbanscootdesignateddriver.com/" target="_blank">Urban Scoot</a>
+<a href="https://itunes.apple.com/us/app/urbanscoot/id929316296?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
+<a href="http://www.androidpit.com/app/com.UrbanScoot"><img alt="Google Play" src="/img/app/google.png"></a>
 * <a href="http://sobermonkeys.com" target="_blank">Sober Monkeys</a><a href="tel:(512) 808-9232" class="call"></a>
 * <a href="http://thesparedriver.com" target="_blank">The Spare Driver</a><a href="tel:(512) 650-0822" class="call"></a>
 * <a href="http://www.bemydd.com/" target="_blank">Be My DD</a>
-* <a href="https://carmacarpool.com/austin" target="_blank">Carma Carpooling</a>
-<a href="https://itunes.apple.com/app/id369681885?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
-<a href="https://play.google.com/store/apps/details?id=com.avego.avegodriver"><img alt="Google Play" src="/img/app/google.png"></a>
 
 ### Other services
 * <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: encompassing all transit</a>
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src="/img/app/google.png"></a>
 
+### Overnight parking in downtown
+* The city DOES NOT tow from the streets, except on 6th st between Red River and Brazos after 9pm on Thursday/ Friday/ Saturday night. 
+* You can now park underneath the I-35 bridge Friday and Saturday night without getting towed. 
+* You may purchase time into the next day at any parking kiosk after midnight. 
+* If you forget to extend your parking and get ticketed, you can get that ticket dismissed with a taxi or bus receipt. <a href="https://austintexas.gov/sites/default/files/files/Ticket_Waiver_form.pdf" target=_blank">Click here</a> to be taken to the form on the City's website.
+
 ### Other information
 
 * <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/PARKING_WAY_FINDING_MAP_072012.pdf" target="_blank">PDF map of DT transportation options</a>
 * <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/Parking_Meter_Map_05_01_13.pdf" target="_blank">PDF map of DT metered parking</a>
 
+## Have you been the victim of illegal taxi or towing behavior? 
+
+### Cabbies cannot legally refuse your fare over location, distance, or lack of cash.  
+If a cabbie has refused you service, took an incorrect route to drive up fare, or behaved inappropriately you can report them <a href="http://www.austintexas.gov/online-form/ground-transportation-complaint-form" target="_blank">here</a>.  Please make sure that you write down the cabbie's ID at the time of the incident.
+
+### Do you feel like you've been illegally towed?
+Pay your fees and then call 311 to report it.  They will assign a detective to your case.
 
 ### Did we miss a service?
 
