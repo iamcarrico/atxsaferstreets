@@ -7,6 +7,7 @@ header_image: 5
 
 #### The best way to ensure you make it home safely is to plan ahead. Please refer to this list when planning your night. Here you will find options for alternative transportation, and what to do if you need to leave your car behind.
 
+## Transportation options:
 
 ### Public Transportation
 
@@ -73,7 +74,8 @@ header_image: 5
 ## Have you been the victim of illegal taxi or towing behavior? 
 
 ### Cabbies cannot legally refuse your fare over location, distance, or lack of cash.  
-If a cabbie has refused you service, took an incorrect route to drive up fare, or behaved inappropriately you can report them <a href="http://www.austintexas.gov/online-form/ground-transportation-complaint-form" target="_blank">here</a>.  Please make sure that you write down the cabbie's ID at the time of the incident.
+If a cabbie has refused you service, took an incorrect route to drive up fare, or behaved inappropriately you can report them <a href="http://www.austintexas.gov/online-form/ground-transportation-complaint-form" target="_blank">here</a>.  
+#### Please make sure that you write down the cabbie's ID at the time of the incident.
 
 ### Do you feel like you've been illegally towed?
 Pay your fees and then call 311 to report it.  They will assign a detective to your case.
