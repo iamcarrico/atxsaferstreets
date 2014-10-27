@@ -5,7 +5,7 @@ date:   2014-10-19 9:00:00
 categories:
   - update
 ---
-<p>ATX Safer Streets sent out a questionnaire to all 78 candidates for both City Council and the Mayoral race. We have attached all 41 responses we received in PDF form below.  We are a nonpartisan Texas Non-Profit, and our questionnaire asks questions about both the problems facing late night transportation and the state of Austin transportation in general.  The responses were all submitted between July 23rd and September 14th, 2014.</p>
+<p>ATX Safer Streets sent out a questionnaire to all 78 candidates for both City Council and the Mayoral race. We have attached all 42 responses we received in PDF form below.  We are a nonpartisan Texas Non-Profit, and our questionnaire asks questions about both the problems facing late night transportation and the state of Austin transportation in general.  The responses were all submitted between July 23rd and September 14th, 2014.</p>
 
 <p>Candidates were informed that all questionnaire responses should be considered public. Answers are unedited and appear as submitted by the candidate, except as indicated by brackets [].  The candidates responses are in the order submitted.  The percentage under each name shows the frequency with which the candidate's answers mirrored our answers.</p>
 
