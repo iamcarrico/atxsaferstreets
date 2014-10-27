@@ -24,6 +24,8 @@ We do not believe our proposal will eliminate the drunk driving. We do believe t
 
 We believe that improvements to the city’s public transit infrastructure are desperately needed in order to maintain Austin’s continued growth. We believe that public transit improvements will help to reduce the workload of APD and EMS and will create a safer city overall. We also believe that allowing more competition into the transit marketplace is good for the consumer, the city, and private businesses. Everyone will ultimately benefit from the changes we’re proposing.
 
+Since our inception in March of 2014, we've brought this topic into the forefront of discussion with both City officials and citizens alike.  We've eliminated overnight towing on the weekends under the I-35 bridge, helped bring about the legalization of TNC's such as Uber and Lyft, and we continue to push for greater transportation options for those who work and play late night.
+
 
 #### For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries").
 [May press release](/pdf/pressrelease52014.pdf "Press Release")  
@@ -31,7 +33,9 @@ We believe that improvements to the city’s public transit infrastructure are d
 
 #### For endorsement or sponsorship inquiries contact [Neil Diaz](mailto:neil@atxsaferstreets.org "sponsorship inquiries")
 
-#### For political outreach, business coalition, public appearances, and all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine").  
+#### If you own or work for a transportation company (limo, town car, pedicab, shuttle, out of town taxi company), or do you have ideas for reducing impaired driving? If so, email [Joseph Boyle](mailto:joseph@atxsaferstreets.org "email Joseph Boyle").
+
+#### For political outreach, public appearances, and all other inquiries email [Sara LeVine](mailto:sara@atxsaferstreets.org "email Sara LeVine"). 
 
 #### For volunteer inquiries email [us](mailto:volunteer@atxsaferstreets.org "volunteer email").  
 
