@@ -5,7 +5,7 @@ css_id: options
 header_image: 5
 ---
 
-Use this handy guide to find transportation and parking options, as well as get information on your rights and other relevant information.   
+#### Use this handy guide to find transportation and parking options, as well as get information on your rights and other relevant information.   
 
 ### Public Transportation
 
@@ -43,16 +43,15 @@ Use this handy guide to find transportation and parking options, as well as get 
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src="/img/app/google.png"></a>
 
-### Overnight parking in downtown
+## Overnight parking in downtown
 * The city DOES NOT tow from the streets, except on 6th st between Red River and Brazos after 9pm on Thursday/ Friday/ Saturday night. 
 * You can now park underneath the I-35 bridge Friday and Saturday night without getting towed. 
 * You may purchase time into the next day at any parking kiosk after midnight. 
-* If you forget to extend your parking and get ticketed, you can get that ticket dismissed with a taxi or bus receipt. <a href="https://austintexas.gov/sites/default/files/files/Ticket_Waiver_form.pdf" target=_blank">Click here</a> to be taken to the form on the City's website.
+* If you forget to extend your parking and get ticketed, you can get that ticket dismissed with a taxi or bus receipt. <a href="https://austintexas.gov/sites/default/files/files/Ticket_Waiver_form.pdf" target="_blank">Click here</a> to be taken to the form on the City's website.
 
 ### Other information
-
+* * <a href="http://austintexas.gov/sites/default/files/files/cbd_off_street_overnight_parking_3_072014.pdf" target="_blank">PDF map of DT overnight parking options</a>
 * <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/PARKING_WAY_FINDING_MAP_072012.pdf" target="_blank">PDF map of DT transportation options</a>
-* <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/Parking_Meter_Map_05_01_13.pdf" target="_blank">PDF map of DT metered parking</a>
 
 ## Have you been the victim of illegal taxi or towing behavior? 
 
