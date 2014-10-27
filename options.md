@@ -5,7 +5,8 @@ css_id: options
 header_image: 5
 ---
 
-#### Use this handy guide to find transportation and parking options, as well as get information on your rights and other relevant information.   
+## The best way to ensure you make it home safely is to plan ahead. Please refer to this list when planning your night. Here you will find options for alternative transportation, and what to do if you need to leave your car behind.
+
 
 ### Public Transportation
 
@@ -29,6 +30,14 @@ header_image: 5
 
 * <a href="http://www.austincab.com" target="_blank">Austin Cab</a><a href="tel:(512) 478-2222" class="call"></a>
 
+### Transportation Network Companies
+
+* <a href="http://www.lyft.com" target="_blank">Lyft</a><a href="http://itunes.apple.com/us/app/lyft-on-demand-ridesharing/id529379082?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
+<a href="https://play.google.com/store/apps/details?id=me.lyft.android"><img alt="Google Play" src="/img/app/google.png"></a>
+* <a href="http://www.uber.com" Target="_blank">Uber</a><a href="https://itunes.apple.com/us/app/uber/id368677368?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.ubercab"><img alt="Google Play" src="/img/app/google.png"></a>
+<a href="https://www.windowsphone.com/en-us/store/app/uber/b905a877-bd55-4ce7-a7aa-467cdc3a21f4"><img alt="Windows Phone App Store" src="/img/app/windows.png"></a>
+
 ### Designated Driver Services
 
 * <a href="http://urbanscootdesignateddriver.com/" target="_blank">Urban Scoot</a>
@@ -39,6 +48,8 @@ header_image: 5
 * <a href="http://www.bemydd.com/" target="_blank">Be My DD</a>
 
 ### Other services
+* <a href="http://www.austintexas.gov/department/ground-transportation" target="_blank">Full list of vehicle for hire choices</a>
+* <a href="http://austintexas.gov/sites/default/files/files/Transportation/Pedicab_Companies.pdf" target="_blank">Pedicab companies</a>
 * <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: encompassing all transit</a>
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src="/img/app/google.png"></a>
@@ -50,7 +61,7 @@ header_image: 5
 * If you forget to extend your parking and get ticketed, you can get that ticket dismissed with a taxi or bus receipt. <a href="https://austintexas.gov/sites/default/files/files/Ticket_Waiver_form.pdf" target="_blank">Click here</a> to be taken to the form on the City's website.
 
 ### Other information
-* * <a href="http://austintexas.gov/sites/default/files/files/cbd_off_street_overnight_parking_3_072014.pdf" target="_blank">PDF map of DT overnight parking options</a>
+* <a href="http://austintexas.gov/sites/default/files/files/cbd_off_street_overnight_parking_3_072014.pdf" target="_blank">PDF map of DT overnight parking options</a>
 * <a href="https://www.austintexas.gov/sites/default/files/files/Transportation/Parking/PARKING_WAY_FINDING_MAP_072012.pdf" target="_blank">PDF map of DT transportation options</a>
 
 ## Have you been the victim of illegal taxi or towing behavior? 
@@ -60,6 +71,8 @@ If a cabbie has refused you service, took an incorrect route to drive up fare, o
 
 ### Do you feel like you've been illegally towed?
 Pay your fees and then call 311 to report it.  They will assign a detective to your case.
+
+
 
 ### Did we miss a service?
 
