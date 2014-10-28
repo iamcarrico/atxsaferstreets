@@ -9,7 +9,7 @@ ATX Safer Streets sent out a questionnaire to all 78 candidates for both City Co
 
 Candidates were informed that all questionnaire responses should be considered public. Answers are unedited and appear as submitted by the candidate, except as indicated by brackets [].  The candidates responses are in the order submitted.  The percentage under each name shows the frequency with which the candidate's answers mirrored our answers.
 
-For a quick glance at how the candidate scored, you may view our scorecards <a href="http://atxsaferstreets.org/pdf/candidates2014/allcards.pdf" target="_blank">HERE</a><br>
+For a quick glance at how the candidate scoreds, you may view our scorecards <a href="http://atxsaferstreets.org/pdf/candidates2014/allcards.pdf" target="_blank">HERE</a><br>
 
 <a href="http://atxsaferstreets.org/pdf/candidates2014/Mayor.pdf" target="_blank">Mayoral race</a><br>
 <a href="http://atxsaferstreets.org/pdf/candidates2014/District1.pdf" target="_blank">District 1</a><br>
