@@ -6,8 +6,6 @@ categories:
   - update
 ---
 
-#### Entertainment district employee parking survey
-
 ATX Safer Streets and Austin Music People have partnered in conjunction with a working group assembled by the Music Commission, to obtain a better understanding of parking challenges that employees of the downtown entertainment industry might face. Together, we have created a survey with questions designed to provide important information that address the needs of those who fuel our nightlife economy.
 
 #### The survey is closed, thank you for your participation! Results will be posted shortly.
