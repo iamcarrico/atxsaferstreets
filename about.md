@@ -5,6 +5,8 @@ css_id: about
 header_image: 14
 ---
 
+<img src="/img/bestof.png" alt="2014 Austin Chronicle Best of!">
+
 ### Read our FAQ [HERE](faq.html "FAQ")
 
 ATX Safer Streets is a coalition of concerned citizens advocating a better bus, train, and taxi system in Austin as well as improvements to our overnight parking system. We believe that a better transit structure is the key to reducing drunk drivers on the roads, as well as traffic congestion. We are asking the city to provide:
