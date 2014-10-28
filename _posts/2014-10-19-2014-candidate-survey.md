@@ -6,7 +6,7 @@ categories:
   - update
 ---
 
-#### Join us November 4th at The Brixton for a <a href="https://www.facebook.com/events/873649432645659/" target="_blank">Election Night Viewing Party</a>!
+#### Join us November 4th at The Brixton for an <a href="https://www.facebook.com/events/873649432645659/" target="_blank">Election Night Viewing Party</a>!
 
 ATX Safer Streets sent out a questionnaire to all 78 candidates for both City Council and the Mayoral race. We have attached all 42 responses we received in PDF form below.  We are a nonpartisan Texas Non-Profit, and our questionnaire asks questions about both the problems facing late night transportation and the state of Austin transportation in general.  The responses were all submitted between July 23rd and September 14th, 2014.
 
