@@ -6,7 +6,25 @@ header_image: 6
 ---
 ####For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries").
 * This is our [May press release](/files/Pressrelease52014.pdf "Press Release")
-* This is our [April press release](/files/pressrelease.pdf "Press Release")
+* This is our [April press release](/files/pressrelease.pdf "Press Release") 
+
+<a href="http://www.keyetv.com/news/features/top-stories/stories/austin-uber-lyft-supporters-march-up-7th-street-petition-21205.shtml" target="_blank">KEYE article on the push to legalize TNC's</a>
+
+<a href="http://media.talkradio1370am.com/a/97468068/austin-election-countdown-podcast-10-02-14.htm" target="_blank">1370 interview with Sara at the 20:36 mark</a>
+
+<a href="http://kxan.com/2014/09/02/group-pushes-temporary-rules-for-uber-lyft/" target="_blank">KXAN story on the push to legalize TNC's</a>
+
+<a href="http://www.keyetv.com/news/features/top-stories/stories/fewer-holiday-dwis-so-far-20512.shtml" target="_blank">KEYE story on reduced DWI's during the holidays</a>
+
+<a href="http://www.myfoxaustin.com/story/26416936/ut-students-get-safe-ride-home-via-uride" target="_blank">FOX story on U-Ride</a>
+
+<a href="http://www.statesman.com/news/news/local/drunken-driving-biggest-concern-at-safety-panel/ngwT7/" target="_blank">APD Safety Symposium story</a>
+
+<a href="http://www.kvue.com/story/news/local/2014/08/06/local-activists-service-industry-employees-push-for-later-buses/13693431/" target="_blank">KVUE interview about later transportation</a>
+
+<a href="http://www.keyetv.com/news/features/top-stories/stories/austin-man-wont-face-intoxication-manslaughter-charge-19745.shtml" target="_blank">Another story on Wade Atwood</a>
+
+<a href="http://kxan.com/2014/07/28/driver-in-deadly-crash-indicted-for-misdemeanor-dwi/" target="_blank">News story on Wade Atwood's indictment</a>
 
 <a href="http://www.givingcityaustin.com/2014/06/04/how-atx-safer-streets-made-an-impact/" target="_blank">Giving City article of ATX Safer Streets</a>
 
