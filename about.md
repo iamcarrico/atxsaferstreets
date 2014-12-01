@@ -28,7 +28,7 @@ We believe that improvements to the city’s public transit infrastructure are d
 
 Since our inception in March of 2014, we've brought this topic into the forefront of discussion with both City officials and citizens alike.  We've eliminated overnight towing on the weekends under the I-35 bridge, helped bring about the legalization of TNC's such as Uber and Lyft, and we continue to push for greater transportation options for those who work and play late night.
 
-### We are a Texas Non Profit with 501(c)3 status pending.
+### We are a 501(c)3 Non Profit. Your donations are tax deductible!
 
 #### Our board:
 * Sara LeVine, president
