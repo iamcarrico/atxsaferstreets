@@ -6,6 +6,7 @@ header_image: 14
 ---
 
 <img src="/img/bestof.png" alt="2014 Austin Chronicle Best of!">
+<img src="/img/austinmonthlybestof.jpg" alt="2014 Austin Monthly Best of!">
 
 ### Read our FAQ [HERE](faq.html "FAQ")
 
@@ -30,10 +31,12 @@ Since our inception in March of 2014, we've brought this topic into the forefron
 
 ### We are a 501(c)3 Non Profit. Your donations are tax deductible!
 
-#### Our board:
-* Sara LeVine, president
-* Joseph Boyle, director
-* Neil Diaz, director
+#### Our board and director:
+* Joseph Boyle, Board member
+* Neil Diaz, Board member
+* Jennifer Houlihan, Board member
+ 
+* Sara LeVine, Executive Director
 
 #### For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries").
 [May press release](/pdf/pressrelease52014.pdf "Press Release")  
