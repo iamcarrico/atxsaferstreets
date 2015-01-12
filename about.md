@@ -29,14 +29,15 @@ We believe that improvements to the city’s public transit infrastructure are d
 
 Since our inception in March of 2014, we've brought this topic into the forefront of discussion with both City officials and citizens alike.  We've eliminated overnight towing on the weekends under the I-35 bridge, helped bring about the legalization of TNC's such as Uber and Lyft, and we continue to push for greater transportation options for those who work and play late night.
 
-### We are a 501(c)3 Non Profit. Your donations are tax deductible!
+### We are a 501(c)3 Non Profit. Your <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEW2ACC5YPRC4" target="_blank">donations are tax deductible</a>!
 
-#### Our board and director:
-* Joseph Boyle, Board member
-* Neil Diaz, Board member
-* Jennifer Houlihan, Board member
- 
-* Sara LeVine, Executive Director
+#### Our Board:
+* Joseph Boyle
+* Neil Diaz
+* Jennifer Houlihan
+
+#### Our Director:
+* Sara LeVine 
 
 #### For press inquiries please contact [Neil Diaz](mailto:press@atxsaferstreets.org "press inquiries").
 [May press release](/pdf/pressrelease52014.pdf "Press Release")  
