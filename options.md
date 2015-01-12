@@ -56,6 +56,7 @@ header_image: 5
 * <a href="http://www.ridescoutapp.com/" target="_blank">RideScout: transportation and parking aggregator</a>
 <a href="https://itunes.apple.com/us/app/ridescout/id574125726?mt=8"><img alt="iPhone App Store" src="/img/app/apple.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.ridescoutapp.android.ridescout"><img alt="Google Play" src="/img/app/google.png"></a>
+* <a href="http://www.fly-rides.com/" target="_blank">Fly-Rides: group bus transportation</a>
 
 
 ## Overnight parking in downtown
@@ -84,4 +85,4 @@ Pay your fees and then call 311 to report it.  They will assign a detective to y
 
 ## Did we miss a service?
 
-Please [email us](mailto:atxsaferstreets@gmail.com "email"), so we can have an up-to-date list.
+Please [email us](mailto:info@atxsaferstreets.org "email"), so we can have an up-to-date list.
