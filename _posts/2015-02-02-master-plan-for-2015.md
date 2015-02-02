@@ -6,7 +6,7 @@ categories:
   - update
 ---
 
-#### We've been hard at work on our 2015 Master Plan, which you can view <a href="http://atxsaferstreets.org/pdf/2015%20Master%20Plan.pdf target="_blank">here</a>!
+#### We've been hard at work on our 2015 Master Plan, which you can view <a href="http://atxsaferstreets.org/pdf/2015MasterPlan.pdf target="_blank">here</a>!
 
 Our platform and campaigns for the upcoming year are laid out here in detail, with additional goals, source material and the many thanks we have for all those who've helped us in the last year.
 
