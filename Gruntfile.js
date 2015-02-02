@@ -142,6 +142,24 @@ module.exports = function (grunt) {
     clean: {
       dist: ["_site", "css", ".sass-cache"]
     },
+
+    rsync: {
+      options: {
+        args: ["--verbose"],
+        exclude: ["node_modules", "files", ".git"],
+        recursive: true
+      },
+      prod: {
+        options: {
+          src: "./_site/",
+          dest: "/home/atx10/atxsaferstreets.org",
+          host: "atx10@atxsaferstreets.org",
+          args: ["--verbose"],
+          exclude: ["files"],
+          recursive: true
+        }
+      }
+    }
   });
 
   grunt.loadNpmTasks('grunt-contrib-watch');
@@ -157,6 +175,7 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-open');
   grunt.loadNpmTasks('grunt-autoprefixer');
   grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks("grunt-rsync");
 
   grunt.registerTask('serve', ['open', 'jekyll:server']);
   grunt.registerTask('site', ['jekyll:dev']);
@@ -168,6 +187,8 @@ module.exports = function (grunt) {
     'autoprefixer:dist',
     'jekyll:prod',
   ]);
+
+  grunt.registerTask('deploy', ['build', 'rsync:prod']);
 
   grunt.registerTask('default', ['serve']);
 };
